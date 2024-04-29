@@ -1,0 +1,1153 @@
+tourney_name,draw_size,tourney_date,match-num,Player1_name,Player1_hand,Player1_ht,Player1_nat,Player1_age,Player1_rank,Player1_rankpoints,score,best_of,round,Player2_name,Player2_hand,Player2_ht,Player2_nat,Player2_age,Player2_rank,Player2_rankpoints,winner
+2001 World Championships,16,20010423,1,Wang Liqin,R,185,CHN,22,1,2361,20-22 21-17 21-16 21-16,5,R16,Jurgen Persson,R,186,SWE,35,13,1903,1
+2001 World Championships,16,20010423,2,Kim Taek-soo,R,175,KOR,30,7,2044,21-16 21-17 21-16,5,R16,Zoran Primorac,R,186,CRO,31,9,2021,1
+2001 World Championships,16,20010423,3,Lui Guoliang,R,168,CHN,25,8,2040,21-12 21-10 21-11,5,R16,Adrian Crisan ,R,185,ROM,20,45,1528,1
+2001 World Championships,16,20010423,4,Chiang Peng-lung,R,184,TPE,24,4,2099,21-18 21-16 21-18,5,R16,Timo Boll,L,181,GER,20,27,1688,1
+2001 World Championships,16,20010423,5,Ma Lin,R,174,CHN,21,3,2131,21-14 21-10 21-23 21-18,5,R16,Jurg Rosskopf,L,182,GER,31,14,1883,1
+2001 World Championships,16,20010423,6,Werner Schlager,R,176,AUT,28,10,1998,20-22 22-20 17-21 10-21,5,R16,Liu Guozheng,R,168,CHN,21,4,2099,0
+2001 World Championships,16,20010423,7,Vladimir Samsonov,R,190,BLR,25,6,2070,21-8 21-14 21-18,5,R16,Jan-Ove Waldner,R,179,SWE,35,11,1923,1
+2001 World Championships,16,20010423,8,Patrick Chila,L,180,FRA,31,24,1698,14-21 9-21 12-21,5,R16,Kong Linghui,R,174,CHN,25,2,2180,0
+2001 World Championships,16,20010423,9,Wang Liqin,R,185,CHN,22,1,2361,15-21 21-14 21-16 21-13,5,QF,Kim Taek-soo,R,175,KOR,30,7,2044,1
+2001 World Championships,16,20010423,10,Lui Guoliang,R,168,CHN,25,8,2040,21-12 17-21 6-21 19-21,5,QF,Chiang Peng-lung,R,184,TPE,24,4,2099,0
+2001 World Championships,16,20010423,11,Ma Lin,R,174,CHN,21,3,2131,21-19 21-13 10-21 14-21 21-19,5,QF,Liu Guozheng,R,168,CHN,21,4,2099,1
+2001 World Championships,16,20010423,12,Vladimir Samsonov,R,190,BLR,25,6,2070,15-21 10-21 21-11 20-22,5,QF,Kong Linghui,R,174,CHN,25,2,2180,0
+2001 World Championships,16,20010423,13,Wang Liqin,R,185,CHN,22,1,2361,21-13 24-22 21-14,5,SF,Chiang Peng-lung,R,184,TPE,24,4,2099,1
+2001 World Championships,16,20010423,14,Ma Lin,R,174,CHN,21,3,2131,21-14 17-21 13-21 15-21,5,SF,Kong Linghui,R,174,CHN,25,2,2180,0
+2001 World Championships,16,20010423,15,Wang Liqin,R,185,CHN,22,1,2361,11-21 11-21 21-16 21-13 21-13,5,F,Kong Linghui,R,174,CHN,25,2,2180,1
+2003 World Championships,16,20030519,1,Qui Yike,R,173,CHN,17,40,1673,11-6 11-8 9-11 11-6 9-11 11-8,7,R16,Adrian Crisan ,R,185,ROM,22,52,1565,1
+2003 World Championships,16,20030519,2,Oh Sang-eun,R,186,KOR,26,13,1913,8-11 11-6 11-8 7-11 10-12 6-11,7,R16,Kong Linghui,R,174,CHN,27,8,2089,0
+2003 World Championships,16,20030519,3,Werner Schlager,R,176,AUT,30,6,2125,5-11 11-3 13-11 12-10 10-12 11-8,7,R16,Kim Taek-soo,R,175,KOR,32,20,1844,1
+2003 World Championships,16,20030519,4,Chiang Peng-lung,R,184,TPE,26,11,1946,6-11 11-4 1-11 10-12 11-6 6-11,7,R16,Wang Liqin,R,185,CHN,24,4,2174,0
+2003 World Championships,16,20030519,5,Kalinakos Kreanga,R,168,GRE,31,9,2005,8-11 11-6 11-1 13-15 11-9 7-11 11-5,7,R16,Vladimir Samsonov,R,190,BLR,27,3,2188,1
+2003 World Championships,16,20030519,6,Chen Weixing,R,173,AUT,31,42,1661,5-11 11-9 12-10 11-13 9-11 11-4 11-9,7,R16,Wang Hao,R,175,CHN,19,7,2111,1
+2003 World Championships,16,20030519,7,Chuang Chih-yuan,R,169,TPE,22,5,2147,5-11 11-6 2-11 9-11 6-11,7,R16,Joo Sae-hyuk,R,180,KOR,23,61,1532,0
+2003 World Championships,16,20030519,8,Fredrik Hakansson,R,181,SWE,27,36,1708,12-10 5-11 11-9 4-11 1-11 3-11,7,R16,Ma Lin,R,174,CHN,23,2,2271,0
+2003 World Championships,16,20030519,9,Qui Yike,R,173,CHN,17,40,1673,1-11 9-11 11-4 1-11 8-11,7,QF,Kong Linghui,R,174,CHN,27,8,2089,0
+2003 World Championships,16,20030519,10,Werner Schlager,R,176,AUT,30,6,2125,5-11 11-5 8-11 13-15 11-9 13-11 11-5,7,QF,Wang Liqin,R,185,CHN,24,4,2174,1
+2003 World Championships,16,20030519,11,Kalinakos Kreanga,R,168,GRE,31,9,2005,12-10 11-9 11-8 11-7,7,QF,Chen Weixing,R,173,AUT,31,42,1661,1
+2003 World Championships,16,20030519,12,Joo Sae-hyuk,R,180,KOR,23,61,1532,13-11 10-12 8-11 11-9 6-11 11-8 11-9,7,QF,Ma Lin,R,174,CHN,23,2,2271,1
+2003 World Championships,16,20030519,13,Kong Linghui,R,174,CHN,27,8,2089,9-11 11-7 10-12 8-11 11-8 11-7 12-14,7,SF,Werner Schlager,R,176,AUT,30,6,2125,0
+2003 World Championships,16,20030519,14,Kalinakos Kreanga,R,168,GRE,31,9,2005,5-11 11-3 7-11 8-11 10-12,7,SF,Joo Sae-hyuk,R,180,KOR,23,61,1532,0
+2003 World Championships,16,20030519,15,Werner Schlager,R,176,AUT,30,6,2125,11-9 11-6 6-11 12-10 8-11 12-10,7,F,Joo Sae-hyuk,R,180,KOR,23,61,1532,1
+Setka,,20220610,1,Marchuk M.,R,,UKR,,,,11-8 11-6 6-11 11-8 ,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220610,2,Sokolov S.,R,,UKR,,,,12-14 8-11 5-11  ,5,RR,Sachuk S.,R,,UKR,,,,0
+Setka,,20220610,3,Samofal Y.,R,,UKR,,,,4-11 11-5 11-6 11-9 ,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220610,4,Kyilo V.,R,,UKR,,,,6-11 11-1 15-13 11-7 ,5,RR,Chernyshov D.,R,,UKR,,,,1
+Setka,,20220610,5,Polysynskyi M.,R,,UKR,,,,12-10 11-9 11-6  ,5,RR,Kostiuk B.,R,,UKR,,,,1
+Setka,,20220610,6,Sachuk S.,R,,UKR,,,,11-9 11-9 5-11 10-12 0-11,5,RR,Diachenko M.,R,,UKR,,,,0
+Setka,,20220610,7,Balakiriev M.,R,,UKR,,,,11-8 11-7 3-11 11-9 ,5,RR,Marchuk M.,R,,UKR,,,,1
+Setka,,20220610,8,Hryshchenko O.,L,,UKR,,,,11-8 7-11 11-3 9-11 11-9,5,RR,Sokolov S.,L,,UKR,,,,1
+Setka,,20220610,9,Samofal Y.,R,,UKR,,,,9-11 9-11 8-11  ,5,RR,Polysynskyi M.,R,,UKR,,,,0
+Setka,,20220610,10,Kyilo V.,R,,UKR,,,,9-11 5-11 11-7 11-6 9-11,5,RR,Sachuk S.,R,,UKR,,,,0
+Setka,,20220610,11,Marchuk M.,R,,UKR,,,,11-6 13-11 11-3  ,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220610,12,Sokolov S.,R,,UKR,,,,11-7 12-10 5-11 6-11 11-9,5,RR,Chernyshov D.,R,,UKR,,,,1
+Setka,,20220610,13,Balakiriev M.,R,,UKR,,,,11-5 13-11 7-11 8-11 11-8,5,RR,Kostiuk B.,R,,UKR,,,,1
+Setka,,20220610,14,Hryshchenko O.,R,,UKR,,,,11-7 11-5 9-11 8-11 12-10,5,RR,Diachenko M.,R,,UKR,,,,1
+Setka,,20220610,15,Samofal Y.,R,,UKR,,,,3-11 3-11 9-11  ,5,RR,Marchuk M.,R,,UKR,,,,0
+Setka,,20220610,16,Kyilo V.,R,,UKR,,,,10-12 8-11 11-7 11-5 8-11,5,RR,Sokolov S.,R,,UKR,,,,0
+Setka,,20220610,17,Balakiriev M.,R,,UKR,,,,11-5 11-8 9-11 6-11 11-5,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220610,18,Hryshchenko O.,R,,UKR,,,,11-9 11-5 13-15 6-11 11-9,5,RR,Sachuk S.,R,,UKR,,,,1
+Setka,,20220610,19,Bambutsa R.,R,,UKR,,,,7-11 13-11 11-8 11-8 ,5,RR,Kostiuk B.,R,,UKR,,,,1
+Setka,,20220610,20,Chernyshov D.,R,,UKR,,,,12-10 8-11 3-11 6-11 ,5,RR,Diachenko M.,R,,UKR,,,,0
+Setka,,20220610,21,Samofal Y.,R,,UKR,,,,7-11 15-13 11-8 4-11 11-9,5,RR,Balakiriev M.,R,,UKR,,,,1
+Setka,,20220610,22,Kyilo V.,R,,UKR,,,,9-11 12-10 11-5 11-9 ,5,RR,Hryshchenko O.,R,,UKR,,,,1
+Setka,,20220610,23,Marchuk M.,R,,UKR,,,,6-11 8-11 11-7 11-6 15-13,5,RR,Kostiuk B.,R,,UKR,,,,1
+Setka,,20220610,24,Sokolov S.,R,,UKR,,,,7-11 8-11 11-6 11-6 6-11,5,RR,Diachenko M.,R,,UKR,,,,0
+Setka,,20220610,25,Baday M.,R,,UKR,,,,10-12 11-9 11-8 11-7 ,5,RR,Tupyk M.,R,,UKR,,,,1
+Setka,,20220610,26,Polysynskyi M.,R,,UKR,,,,11-7 6-11 11-8 6-11 11-6,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220610,27,Lutskyi V.,R,,UKR,,,,10-12 11-3 11-1 9-11 12-10,5,RR,Maltsev D.,R,,UKR,,,,1
+Setka,,20220610,28,Hordiichuk O.,R,,UKR,,,,11-7 14-12 9-11 12-10 ,5,RR,Kuzmych V.,R,,UKR,,,,1
+Setka,,20220610,29,Sachuk S.,R,,UKR,,,,11-6 7-11 11-5 7-11 11-9,5,RR,Chernyshov D.,R,,UKR,,,,1
+Setka,,20220610,30,Sedin V.,R,,UKR,,,,7-11 12-14 9-11  ,5,RR,Zaitsev O.,R,,UKR,,,,0
+Setka,,20220610,31,Vons V.,R,,UKR,,,,12-10 12-10 6-11 11-4 ,5,RR,Daragan S.,R,,UKR,,,,1
+Setka,,20220610,32,Torba R.,R,,UKR,,,,18-16 11-8 7-11 9-11 6-11,5,RR,Nikolenko S.,R,,UKR,,,,0
+Setka,,20220610,33,Fedoryshyn I.,R,,UKR,,,,11-6 11-6 11-4  ,5,RR,Tupyk M.,R,,UKR,,,,1
+Setka,,20220610,34,Stukalov V.,L,,UKR,,,,9-11 11-8 11-4 11-7 ,5,RR,Yurenev O.,R,,UKR,,,,1
+Setka,,20220610,35,Skripnik S.,L,,UKR,,,,11-4 7-11 11-8 3-11 9-11,5,RR,Mishchenko V.,R,,UKR,,,,0
+Setka,,20220610,36,Fylypiv R.,R,,UKR,,,,11-6 12-10 11-13 10-12 11-9,5,RR,Slozka M.,R,,UKR,,,,1
+Setka,,20220610,37,Romanenko I.,R,,UKR,,,,7-11 3-11 11-4 8-11 ,5,RR,Semipeadnii V.,R,,UKR,,,,0
+Setka,,20220610,38,Rak S.,R,,UKR,,,,11-9 11-8 11-7  ,5,RR,Nakliutskyi A.,L,,UKR,,,,1
+Setka,,20220610,39,Baday M.,R,,UKR,,,,11-4 11-8 11-8  ,5,RR,Sedin V.,R,,UKR,,,,1
+Setka,,20220610,40,Yakubov M.,R,,UKR,,,,11-13 9-11 11-7 9-11 ,5,RR,Ponomarenko O.,R,,UKR,,,,0
+Setka,,20220610,41,Kolbasenko O.,R,,UKR,,,,9-11 12-10 11-8 11-4 ,5,RR,Mrykh M.,R,,UKR,,,,1
+Setka,,20220610,42,Lutskyi V.,R,,UKR,,,,17-15 11-5 9-11 10-12 11-8,5,RR,Daragan S.,R,,UKR,,,,1
+Setka,,20220610,43,Mul S.,R,,UKR,,,,11-5 11-4 11-8  ,5,RR,Lipkan D.,R,,UKR,,,,1
+Setka,,20220610,44,Turek T.,R,,UKR,,,,11-9 9-11 9-11 11-9 10-12,5,RR,Marko J.,R,,UKR,,,,0
+Setka,,20220610,45,Hordiichuk O.,R,,UKR,,,,6-11 7-11 8-11  ,5,RR,Nikolenko S.,R,,UKR,,,,0
+Setka,,20220610,46,Masko Y.,R,,UKR,,,,9-11 8-11 11-7 12-14 ,5,RR,Cherevko R.,R,,UKR,,,,0
+Setka,,20220610,47,Fedoryshyn I.,R,,UKR,,,,11-8 7-11 9-11 7-11 ,5,RR,Zaitsev O.,R,,UKR,,,,0
+Setka,,20220610,48,Tsoi K.,R,,UKR,,,,7-11 7-11 3-11  ,5,RR,Kunchurov D.,R,,UKR,,,,0
+Setka,,20220610,49,Sklyarenko A.,R,,UKR,,,,11-7 13-15 12-10 11-6 ,5,RR,Nadporozhskyi O.,R,,UKR,,,,1
+Setka,,20220610,50,Hrstka T.,R,,UKR,,,,13-11 7-11 8-11 7-11 ,5,RR,Brozek M.,R,,UKR,,,,0
+Setka,,20220610,51,Dubrovin V.,R,,UKR,,,,11-6 10-12 11-5 11-3 ,5,RR,Shkepu S.,R,,UKR,,,,1
+Setka,,20220610,52,Mikus D.,R,,UKR,,,,11-9 11-2 13-11  ,5,RR,Papirnik O.,R,,UKR,,,,1
+Setka,,20220610,53,Slozka M.,R,,UKR,,,,7-11 11-9 11-7 9-11 11-5,5,RR,Maltsev D.,R,,UKR,,,,1
+Setka,,20220610,54,Melnik V.,R,,UKR,,,,7-11 12-14 6-11  ,5,RR,Horbanenko O.,R,,UKR,,,,0
+Setka,,20220610,55,Nakliutskyi A.,R,,UKR,,,,11-6 5-11 11-6 4-11 11-7,5,RR,Kuzmych V.,R,,UKR,,,,1
+Setka,,20220610,56,Sedin V.,R,,UKR,,,,9-11 7-11 11-3 11-4 11-6,5,RR,Tupyk M.,R,,UKR,,,,1
+Setka,,20220610,57,Stukalov V.,R,,UKR,,,,11-7 10-12 12-10 12-10 ,5,RR,Ponomarenko O.,R,,UKR,,,,1
+Setka,,20220610,58,Skripnik S.,R,,UKR,,,,11-7 6-11 11-8 5-11 9-11,5,RR,Mrykh M.,R,,UKR,,,,0
+Setka,,20220610,59,Lukes T.,R,,UKR,,,,11-1 8-11 11-6 9-11 10-12,5,RR,Herink J.,R,,UKR,,,,0
+Setka,,20220610,60,Cechvala R.,R,,UKR,,,,7-11 11-5 10-12 9-11 ,5,RR,Zachar M.,R,,UKR,,,,0
+Setka,,20220610,61,Romanenko I.,R,,UKR,,,,11-5 11-5 4-11 11-8 ,5,RR,Lipkan D.,R,,UKR,,,,1
+Setka,,20220610,62,Vons V.,R,,UKR,,,,11-2 11-8 9-11 6-11 12-10,5,RR,Fylypiv R.,R,,UKR,,,,1
+Setka,,20220610,63,Torba R.,R,,UKR,,,,11-4 11-6 12-14 11-9 ,5,RR,Rak S.,R,,UKR,,,,1
+Setka,,20220610,64,Zemiantsev S.,R,,UKR,,,,7-11 11-9 5-11 15-17 ,5,RR,Baranovskiy S.,L,,UKR,,,,0
+Setka,,20220610,65,Baday M.,R,,UKR,,,,11-6 8-11 11-3 11-8 ,5,RR,Zaitsev O.,L,,UKR,,,,1
+Setka,,20220610,66,Kunchurov D.,R,,UKR,,,,12-10 11-7 11-3  ,5,RR,Yurenev O.,R,,UKR,,,,1
+Setka,,20220610,67,Nadporozhskyi O.,R,,UKR,,,,5-11 12-10 7-11 10-12 ,5,RR,Mishchenko V.,R,,UKR,,,,0
+Setka,,20220610,68,Hrstka T.,L,,UKR,,,,6-11 2-11 14-12 6-11 ,5,RR,Herink J.,R,,UKR,,,,0
+Setka,,20220610,69,Lutskyi V.,R,,UKR,,,,11-6 5-11 13-11 6-11 11-4,5,RR,Slozka M.,R,,UKR,,,,1
+Setka,,20220610,70,Shkepu S.,R,,UKR,,,,11-2 11-4 13-11  ,5,RR,Semipeadnii V.,R,,UKR,,,,1
+Setka,,20220610,71,Turek T.,R,,UKR,,,,8-11 11-7 8-11 9-11 ,5,RR,Papirnik O.,R,,UKR,,,,0
+Setka,,20220610,72,Hordiichuk O.,R,,UKR,,,,11-9 11-6 11-7  ,5,RR,Nakliutskyi A.,R,,UKR,,,,1
+Setka,,20220610,73,Masko Y.,R,,UKR,,,,11-8 8-11 6-11 11-5 11-9,5,RR,Horbanenko O.,R,,UKR,,,,1
+Setka,,20220610,74,Fedoryshyn I.,R,,UKR,,,,11-3 11-8 11-7  ,5,RR,Sedin V.,R,,UKR,,,,1
+Setka,,20220610,75,Yakubov M.,R,,UKR,,,,18-16 11-13 7-11 11-3 11-6,5,RR,Tsoi K.,R,,UKR,,,,1
+Setka,,20220610,76,Kolbasenko O.,R,,UKR,,,,13-11 9-11 8-11 7-11 ,5,RR,Sklyarenko A.,R,,UKR,,,,0
+Setka,,20220610,77,Lukes T.,R,,UKR,,,,5-11 11-3 11-5 11-4 ,5,RR,Brozek M.,R,,UKR,,,,1
+Setka,,20220610,78,Fylypiv R.,R,,UKR,,,,11-7 11-6 12-10  ,5,RR,Daragan S.,R,,UKR,,,,1
+Setka,,20220610,79,Mul S.,R,,UKR,,,,11-13 11-7 7-11 11-5 12-10,5,RR,Dubrovin V.,R,,UKR,,,,1
+Setka,,20220610,80,Zachar M.,R,,UKR,,,,7-11 6-11 6-11  ,5,RR,Marko J.,R,,UKR,,,,0
+Setka,,20220610,81,Baranovskiy S.,R,,UKR,,,,11-6 12-10 8-11 11-8 ,5,RR,Cherevko R.,R,,UKR,,,,1
+Setka,,20220610,82,Rak S.,R,,UKR,,,,11-5 9-11 11-6 11-7 ,5,RR,Nikolenko S.,R,,UKR,,,,1
+Setka,,20220610,83,Stukalov V.,R,,UKR,,,,11-8 11-13 11-9 8-11 8-11,5,RR,Kunchurov D.,R,,UKR,,,,0
+Setka,,20220610,84,Zaitsev O.,R,,UKR,,,,7-11 11-3 7-11 11-6 8-11,5,RR,Tupyk M.,R,,UKR,,,,0
+Setka,,20220610,85,Skripnik S.,R,,UKR,,,,11-6 11-13 11-5 8-11 11-7,5,RR,Nadporozhskyi O.,R,,UKR,,,,1
+Setka,,20220610,86,Hrstka T.,R,,UKR,,,,3-11 10-12 11-6 11-6 12-10,5,RR,Lukes T.,R,,UKR,,,,1
+Setka,,20220610,87,Mikus D.,R,,UKR,,,,21-23 4-11 7-11  ,5,RR,Cechvala R.,R,,UKR,,,,0
+Setka,,20220610,88,Romanenko I.,R,,UKR,,,,11-9 9-11 11-6 11-9 ,5,RR,Shkepu S.,R,,UKR,,,,1
+Setka,,20220610,89,Vons V.,R,,UKR,,,,11-8 3-11 5-11 11-6 6-11,5,RR,Maltsev D.,R,,UKR,,,,0
+Setka,,20220610,90,Melnik V.,R,,UKR,,,,5-11 11-6 8-11 7-11 ,5,RR,Zemiantsev S.,R,,UKR,,,,0
+Setka,,20220610,91,Torba R.,R,,UKR,,,,11-9 11-4 11-13 6-11 11-3,5,RR,Kuzmych V.,R,,UKR,,,,1
+Setka,,20220610,92,Fedoryshyn I.,R,,UKR,,,,17-19 8-11 8-11  ,5,RR,Baday M.,R,,UKR,,,,0
+Setka,,20220610,93,Sklyarenko A.,R,,UKR,,,,8-11 13-11 11-3 5-11 11-6,5,RR,Mrykh M.,R,,UKR,,,,1
+Setka,,20220610,94,Tsoi K.,R,,UKR,,,,11-7 7-11 11-9 7-11 7-11,5,RR,Ponomarenko O.,R,,UKR,,,,0
+Setka,,20220610,95,Herink J.,R,,UKR,,,,6-11 11-5 11-9 11-4 ,5,RR,Brozek M.,R,,UKR,,,,1
+Setka,,20220610,96,Dubrovin V.,R,,UKR,,,,11-9 10-12 11-3 12-10 ,5,RR,Lipkan D.,R,,UKR,,,,1
+Setka,,20220610,97,Lutskyi V.,R,,UKR,,,,9-11 11-13 11-5 9-11 ,5,RR,Fylypiv R.,R,,UKR,,,,0
+Setka,,20220610,98,Turek T.,L,,UKR,,,,4-11 11-8 11-6 11-8 ,5,RR,Zachar M.,L,,UKR,,,,1
+Setka,,20220610,99,Hordiichuk O.,R,,UKR,,,,7-11 7-11 11-5 8-11 ,5,RR,Rak S.,R,,UKR,,,,0
+Setka,,20220610,100,Masko Y.,R,,UKR,,,,11-3 4-11 11-7 11-8 ,5,RR,Baranovskiy S.,R,,UKR,,,,1
+Setka,,20220610,101,Sedin V.,R,,UKR,,,,11-9 11-8 11-6  ,5,RR,Fedoryshyn I.,R,,UKR,,,,1
+Setka,,20220610,102,Yakubov M.,R,,UKR,,,,10-12 5-11 16-14 7-11 ,5,RR,Yurenev O.,R,,UKR,,,,0
+Setka,,20220610,103,Kolbasenko O.,R,,UKR,,,,11-7 5-11 12-10 11-8 ,5,RR,Mishchenko V.,R,,UKR,,,,1
+Setka,,20220610,104,Brozek M.,R,,UKR,,,,11-8 11-6 11-9  ,5,RR,Hrstka T.,R,,UKR,,,,1
+Setka,,20220610,105,Cechvala R.,R,,UKR,,,,11-8 9-11 8-11 11-4 11-7,5,RR,Papirnik O.,R,,UKR,,,,1
+Setka,,20220610,106,Mul S.,R,,UKR,,,,11-3 14-12 11-6  ,5,RR,Semipeadnii V.,R,,UKR,,,,1
+Setka,,20220610,107,Vons V.,R,,UKR,,,,11-9 5-11 6-11 11-8 11-5,5,RR,Slozka M.,R,,UKR,,,,1
+Setka,,20220610,108,Torba R.,R,,UKR,,,,11-5 11-9 10-12 11-13 11-7,5,RR,Nakliutskyi A.,R,,UKR,,,,1
+Setka,,20220610,109,Zemiantsev S.,R,,UKR,,,,6-11 11-7 11-5 11-9 ,5,RR,Horbanenko O.,R,,UKR,,,,1
+Setka,,20220610,110,Stukalov V.,R,,UKR,,,,11-6 7-11 4-11 11-9 11-9,5,RR,Tsoi K.,R,,UKR,,,,1
+Setka,,20220610,111,Zaitsev O.,R,,UKR,,,,7-11 10-12 7-11  ,5,RR,Baday M.,R,,UKR,,,,0
+Setka,,20220610,112,Skripnik S.,R,,UKR,,,,9-11 5-11 7-11  ,5,RR,Sklyarenko A.,R,,UKR,,,,0
+Setka,,20220610,113,Daragan S.,R,,UKR,,,,4-11 8-11 7-11  ,5,RR,Maltsev D.,R,,UKR,,,,0
+Setka,,20220610,114,Herink J.,R,,UKR,,,,6-11 12-10 11-9 5-11 11-5,5,RR,Lukes T.,R,,UKR,,,,1
+Setka,,20220610,115,Mikus D.,R,,UKR,,,,11-13 8-11 11-8 8-11 ,5,RR,Marko J.,R,,UKR,,,,0
+Setka,,20220610,116,Romanenko I.,R,,UKR,,,,8-11 8-11 10-12  ,5,RR,Dubrovin V.,R,,UKR,,,,0
+Setka,,20220610,117,Melnik V.,R,,UKR,,,,11-6 11-8 11-6  ,5,RR,Cherevko R.,R,,UKR,,,,1
+Setka,,20220610,118,Nikolenko S.,R,,UKR,,,,11-6 10-12 12-14 11-5 12-10,5,RR,Kuzmych V.,R,,UKR,,,,1
+Setka,,20220610,119,Yakubov M.,R,,UKR,,,,11-9 12-10 2-11 3-11 3-11,5,RR,Kunchurov D.,R,,UKR,,,,0
+Setka,,20220610,120,Zaporozhets R.,R,,UKR,,,,5-11 11-9 11-8 9-11 11-3,5,RR,Hubenko M.,R,,UKR,,,,1
+Setka,,20220610,121,Barsa T.,R,,UKR,,,,11-7 11-3 6-11 11-6 ,5,RR,Luder J.,R,,UKR,,,,1
+Setka,,20220610,122,Kolbasenko O.,R,,UKR,,,,9-11 9-11 12-10 8-11 ,5,RR,Nadporozhskyi O.,R,,UKR,,,,0
+Setka,,20220610,123,Zholubak R.,R,,UKR,,,,11-8 11-9 10-12 9-11 6-11,5,RR,Yurchenko K.,R,,UKR,,,,0
+Setka,,20220610,124,Plyska O.,R,,UKR,,,,11-7 13-11 14-12  ,5,RR,Pavelka J.,R,,UKR,,,,1
+Setka,,20220610,125,Lutskyi V.,R,,UKR,,,,13-11 11-9 11-6  ,5,RR,Vons V.,R,,UKR,,,,1
+Setka,,20220610,126,Mul S.,R,,UKR,,,,12-10 12-10 6-11 11-7 ,5,RR,Shkepu S.,R,,UKR,,,,1
+Setka,,20220610,127,Turek T.,R,,UKR,,,,9-11 4-11 9-11  ,5,RR,Cechvala R.,R,,UKR,,,,0
+Setka,,20220610,128,Masko Y.,R,,UKR,,,,13-15 8-11 11-4 11-7 11-6,5,RR,Zemiantsev S.,L,,UKR,,,,1
+Setka,,20220610,129,Hordiichuk O.,L,,UKR,,,,9-11 11-6 11-6 7-11 11-9,5,RR,Torba R.,R,,UKR,,,,1
+Setka,,20220610,130,Lushchyk A.,R,,UKR,,,,11-4 6-11 12-14 11-7 11-7,5,RR,Maliuk S.,R,,UKR,,,,1
+Setka,,20220610,131,Ponomarenko O.,R,,UKR,,,,5-11 11-7 11-8 5-11 11-4,5,RR,Yurenev O.,R,,UKR,,,,1
+Setka,,20220610,132,Zydel J.,R,,UKR,,,,9-11 2-11 2-11  ,5,RR,Zezule O.,R,,UKR,,,,0
+Setka,,20220610,133,Bochkovskyi V.,R,,UKR,,,,9-11 8-11 4-11  ,5,RR,Honchar Y.,R,,UKR,,,,0
+Setka,,20220610,134,Mrykh M.,R,,UKR,,,,11-5 11-7 13-11  ,5,RR,Mishchenko V.,R,,UKR,,,,1
+Setka,,20220610,135,Zimcik L.,R,,UKR,,,,11-9 11-5 11-3  ,5,RR,Sprongl J.,R,,UKR,,,,1
+Setka,,20220610,136,Fylypiv R.,R,,UKR,,,,4-11 11-9 11-6 11-3 ,5,RR,Maltsev D.,R,,UKR,,,,1
+Setka,,20220610,137,Lipkan D.,R,,UKR,,,,10-12 11-8 11-8 12-14 9-11,5,RR,Semipeadnii V.,R,,UKR,,,,0
+Setka,,20220610,138,Mikus D.,R,,UKR,,,,11-8 11-8 11-8  ,5,RR,Zachar M.,R,,UKR,,,,1
+Setka,,20220610,139,Melnik V.,R,,UKR,,,,11-7 15-13 15-13  ,5,RR,Baranovskiy S.,R,,UKR,,,,1
+Setka,,20220610,140,Rak S.,R,,UKR,,,,11-8 7-11 11-8 7-11 11-5,5,RR,Kuzmych V.,R,,UKR,,,,1
+Setka,,20220610,141,Barsa T.,R,,UKR,,,,5-11 6-11 8-11  ,5,RR,Zezule O.,R,,UKR,,,,0
+Setka,,20220610,142,Stukalov V.,R,,UKR,,,,11-8 11-9 11-6  ,5,RR,Yakubov M.,R,,UKR,,,,1
+Setka,,20220610,143,Ziakun O.,R,,UKR,,,,7-11 11-5 6-11 9-11 ,5,RR,Miroshnychenko S.,R,,UKR,,,,0
+Setka,,20220610,144,Drobov D.,R,,UKR,,,,11-5 11-5 11-3  ,5,RR,Vilenchyts N.,R,,UKR,,,,1
+Setka,,20220610,145,Skripnik S.,R,,UKR,,,,13-11 9-11 7-11 11-4 7-11,5,RR,Kolbasenko O.,R,,UKR,,,,0
+Setka,,20220610,146,Plyska O.,R,,UKR,,,,11-4 11-4 5-11 9-11 11-4,5,RR,Sprongl J.,R,,UKR,,,,1
+Setka,,20220610,147,Papirnik O.,R,,UKR,,,,8-11 10-12 9-11  ,5,RR,Marko J.,R,,UKR,,,,0
+Setka,,20220610,148,Romanenko I.,R,,UKR,,,,4-11 8-11 9-11  ,5,RR,Mul S.,R,,UKR,,,,0
+Setka,,20220610,149,Slozka M.,R,,UKR,,,,4-11 10-12 11-3 11-8 11-6,5,RR,Daragan S.,R,,UKR,,,,1
+Setka,,20220610,150,Horbanenko O.,R,,UKR,,,,11-9 6-11 11-8 10-12 8-11,5,RR,Cherevko R.,R,,UKR,,,,0
+Setka,,20220610,151,Nakliutskyi A.,R,,UKR,,,,2-11 7-11 11-9 12-14 ,5,RR,Nikolenko S.,R,,UKR,,,,0
+Setka,,20220610,152,Tsoi K.,R,,UKR,,,,11-13 12-10 9-11 11-7 11-5,5,RR,Yurenev O.,R,,UKR,,,,1
+Setka,,20220610,153,Zaporozhets R.,R,,UKR,,,,9-11 11-7 5-11 11-5 11-9,5,RR,Maliuk S.,R,,UKR,,,,1
+Setka,,20220610,154,Zydel J.,R,,UKR,,,,11-4 9-11 11-8 11-6 ,5,RR,Luder J.,R,,UKR,,,,1
+Setka,,20220610,155,Sklyarenko A.,R,,UKR,,,,11-7 11-8 8-11 11-9 ,5,RR,Mishchenko V.,R,,UKR,,,,1
+Setka,,20220610,156,Zholubak R.,R,,UKR,,,,9-11 9-11 11-7 11-4 12-10,5,RR,Honchar Y.,R,,UKR,,,,1
+Setka,,20220610,157,Zimcik L.,R,,UKR,,,,11-6 11-7 11-8  ,5,RR,Pavelka J.,R,,UKR,,,,1
+Setka,,20220610,158,Dubrovin V.,R,,UKR,,,,11-6 11-4 11-8  ,5,RR,Semipeadnii V.,R,,UKR,,,,1
+Setka,,20220610,159,Turek T.,L,,UKR,,,,5-11 4-11 11-2 7-11 ,5,RR,Mikus D.,L,,UKR,,,,0
+Setka,,20220610,160,Masko Y.,R,,UKR,,,,5-11 7-11 10-12  ,5,RR,Melnik V.,R,,UKR,,,,0
+Setka,,20220610,161,Barsa T.,R,,UKR,,,,11-9 11-5 11-3  ,5,RR,Zydel J.,R,,UKR,,,,1
+Setka,,20220610,162,Kunchurov D.,R,,UKR,,,,11-9 7-11 4-11 5-11 ,5,RR,Ponomarenko O.,R,,UKR,,,,0
+Setka,,20220610,163,Miroshnychenko S.,R,,UKR,,,,9-11 12-10 11-9 11-6 ,5,RR,Hubenko M.,R,,UKR,,,,1
+Setka,,20220610,164,Nadporozhskyi O.,R,,UKR,,,,17-19 12-10 13-15 11-7 8-11,5,RR,Mrykh M.,R,,UKR,,,,0
+Setka,,20220610,165,Tebenko Y.,R,,UKR,,,,6-11 11-9 9-11 11-7 7-11,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220610,166,Vilenchyts N.,R,,UKR,,,,11-5 14-12 6-11 11-13 3-11,5,RR,Yurchenko K.,R,,UKR,,,,0
+Setka,,20220610,167,Plyska O.,R,,UKR,,,,7-11 8-11 6-11  ,5,RR,Zimcik L.,R,,UKR,,,,0
+Setka,,20220610,168,Cechvala R.,R,,UKR,,,,11-7 13-11 12-10  ,5,RR,Marko J.,R,,UKR,,,,1
+Setka,,20220610,169,Shkepu S.,R,,UKR,,,,11-7 11-9 9-11 6-11 11-6,5,RR,Lipkan D.,R,,UKR,,,,1
+Setka,,20220610,170,Zemiantsev S.,R,,UKR,,,,11-13 11-9 9-11 8-11 ,5,RR,Cherevko R.,R,,UKR,,,,0
+Setka,,20220610,171,Huchok A.,R,,UKR,,,,11-5 11-5 11-6  ,5,RR,Kolos Y.,R,,UKR,,,,1
+Setka,,20220610,172,Lushchyk A.,R,,UKR,,,,5-11 15-13 11-6 10-12 11-5,5,RR,Ziakun O.,R,,UKR,,,,1
+Setka,,20220610,173,Zezule O.,R,,UKR,,,,9-11 5-11 11-3 12-10 11-3,5,RR,Luder J.,R,,UKR,,,,1
+Setka,,20220610,174,Bochkovskyi V.,R,,UKR,,,,5-11 6-11 6-11  ,5,RR,Drobov D.,R,,UKR,,,,0
+Setka,,20220610,175,Samofal Y.,R,,UKR,,,,10-12 11-6 4-11 9-11 ,5,RR,Peretiatko A.,R,,UKR,,,,0
+Setka,,20220610,176,Sprongl J.,R,,UKR,,,,5-11 11-8 11-9 11-7 ,5,RR,Pavelka J.,R,,UKR,,,,1
+Setka,,20220610,177,Pashkevich R.,R,,UKR,,,,9-11 11-5 7-11 11-4 11-4,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220610,178,Zachar M.,R,,UKR,,,,4-11 6-11 11-6 11-6 10-12,5,RR,Papirnik O.,R,,UKR,,,,0
+Setka,,20220610,179,Baranovskiy S.,R,,UKR,,,,10-12 9-11 11-8 11-3 10-12,5,RR,Horbanenko O.,R,,UKR,,,,0
+Setka,,20220610,180,Okopnyi V.,R,,UKR,,,,11-7 7-11 9-11 13-15 ,5,RR,Budnikov A.,R,,UKR,,,,0
+Setka,,20220610,181,Zaporozhets R.,R,,UKR,,,,7-11 9-11 12-10 9-11 ,5,RR,Miroshnychenko S.,R,,UKR,,,,0
+Setka,,20220610,182,Volkov P.,R,,UKR,,,,11-3 9-11 9-11 10-12 ,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220610,183,Zholubak R.,R,,UKR,,,,6-11 8-11 5-11  ,5,RR,Vilenchyts N.,R,,UKR,,,,0
+Setka,,20220610,184,Crainiucov G.,R,,UKR,,,,6-11 11-7 9-11 8-11 ,5,RR,Uzun N.,R,,UKR,,,,0
+Setka,,20220610,185,Zimcik L.,L,,UKR,,,,11-4 11-8 11-9  ,5,RR,Plyska O.,R,,UKR,,,,1
+Setka,,20220610,186,Tebenko Y.,L,,UKR,,,,5-11 11-6 21-19 9-11 9-11,5,RR,Kolos Y.,R,,UKR,,,,0
+Setka,,20220610,187,Marchuk M.,R,,UKR,,,,5-11 8-11 11-8 11-4 11-8,5,RR,Chernyshov D.,R,,UKR,,,,1
+Setka,,20220610,188,Ziakun O.,R,,UKR,,,,12-10 13-11 9-11 10-12 11-5,5,RR,Maliuk S.,R,,UKR,,,,1
+Setka,,20220610,189,Drobov D.,R,,UKR,,,,11-6 11-6 13-11  ,5,RR,Honchar Y.,L,,UKR,,,,1
+Setka,,20220610,190,Khorolskyi V.,R,,UKR,,,,11-6 6-11 11-3 14-12 ,5,RR,Pereyaslavsky D.,R,,UKR,,,,1
+Setka,,20220610,191,Zezule O.,R,,UKR,,,,11-9 11-6 11-5  ,5,RR,Barsa T.,R,,UKR,,,,1
+Setka,,20220610,192,Mischenko S.,R,,UKR,,,,11-3 16-14 8-11 11-9 ,5,RR,Dobrzhinsky O.,R,,UKR,,,,1
+Setka,,20220610,193,Pavelka J.,R,,UKR,,,,7-11 4-11 11-4 11-6 8-11,5,RR,Sprongl J.,R,,UKR,,,,0
+Setka,,20220610,194,Budnikov A.,R,,UKR,,,,8-11 8-11 6-11  ,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220610,195,Kyilo V.,R,,UKR,,,,11-6 2-11 7-11 11-3 10-12,5,RR,Diachenko M.,R,,UKR,,,,0
+Setka,,20220610,196,Cuba M.,R,,UKR,,,,11-9 6-11 11-3 11-7 ,5,RR,Novak R.,R,,UKR,,,,1
+Setka,,20220610,197,Lushchyk A.,R,,UKR,,,,11-5 11-9 8-11 6-11 9-11,5,RR,Hubenko M.,R,,UKR,,,,0
+Setka,,20220610,198,Bochkovskyi V.,R,,UKR,,,,8-11 11-8 8-11 11-9 9-11,5,RR,Yurchenko K.,R,,UKR,,,,0
+Setka,,20220610,199,Samofal Y.,R,,UKR,,,,11-13 11-7 11-6 12-10 ,5,RR,Sokoltsov Y.,R,,UKR,,,,1
+Setka,,20220610,200,Pashkevich R.,R,,UKR,,,,6-11 10-12 7-11  ,5,RR,Uzun N.,R,,UKR,,,,0
+Setka,,20220610,201,Huchok A.,R,,UKR,,,,11-13 9-11 10-12  ,5,RR,Okopnyi V.,R,,UKR,,,,0
+Setka,,20220610,202,Sachuk S.,R,,UKR,,,,4-11 11-5 12-10 5-11 13-11,5,RR,Hryshchenko O.,R,,UKR,,,,1
+Setka,,20220610,203,Svoboda V.,R,,UKR,,,,4-11 11-7 12-14 11-7 8-11,5,RR,Melisek M.,R,,UKR,,,,0
+Setka,,20220610,204,Zaporozhets R.,R,,UKR,,,,11-5 6-11 6-11 11-9 9-11,5,RR,Ziakun O.,R,,UKR,,,,0
+Setka,,20220610,205,Pereyaslavsky D.,R,,UKR,,,,8-11 7-11 11-9 6-11 ,5,RR,Peretiatko A.,R,,UKR,,,,0
+Setka,,20220610,206,Zholubak R.,R,,UKR,,,,11-13 9-11 5-11  ,5,RR,Drobov D.,R,,UKR,,,,0
+Setka,,20220610,207,Brichacek D.,R,,UKR,,,,8-11 8-11 11-13  ,5,RR,Rulc L.,R,,UKR,,,,0
+Setka,,20220610,208,Dobrzhinsky O.,R,,UKR,,,,11-9 8-11 11-5 6-11 11-13,5,RR,Kovik I.,R,,UKR,,,,0
+Setka,,20220610,209,Marchuk M.,R,,UKR,,,,7-11 10-12 6-11  ,5,RR,Diachenko M.,R,,UKR,,,,0
+Setka,,20220610,210,Tebenko Y.,R,,UKR,,,,4-11 11-7 11-9 8-11 10-12,5,RR,Budnikov A.,R,,UKR,,,,0
+Setka,,20220610,211,Cuba M.,R,,UKR,,,,11-6 11-6 11-6  ,5,RR,Melisek M.,R,,UKR,,,,1
+Setka,,20220610,212,Lushchyk A.,R,,UKR,,,,8-11 11-5 11-6 11-6 ,5,RR,Miroshnychenko S.,R,,UKR,,,,1
+Setka,,20220610,213,Bochkovskyi V.,R,,UKR,,,,5-11 8-11 8-11  ,5,RR,Vilenchyts N.,R,,UKR,,,,0
+Setka,,20220610,214,Pfleger M.,R,,UKR,,,,3-11 10-12 11-6 8-11 ,5,RR,Fafek J.,R,,UKR,,,,0
+Setka,,20220610,215,Volkov P.,R,,UKR,,,,9-11 11-2 11-3 3-11 11-8,5,RR,Khorolskyi V.,L,,UKR,,,,1
+Setka,,20220610,216,Crainiucov G.,R,,UKR,,,,11-7 6-11 11-6 12-10 ,5,RR,Mischenko S.,L,,UKR,,,,1
+Setka,,20220610,217,Hryshchenko O.,R,,UKR,,,,9-11 6-11 7-11  ,5,RR,Chernyshov D.,R,,UKR,,,,0
+Setka,,20220610,218,Okopnyi V.,R,,UKR,,,,9-11 14-12 11-4 12-10 ,5,RR,Kolos Y.,R,,UKR,,,,1
+Setka,,20220610,219,Brichacek D.,L,,UKR,,,,11-5 6-11 12-10 11-6 ,5,RR,Fafek J.,R,,UKR,,,,1
+Setka,,20220610,220,Svoboda V.,R,,UKR,,,,11-9 11-8 9-11 10-12 13-11,5,RR,Novak R.,R,,UKR,,,,1
+Setka,,20220610,221,Honchar Y.,R,,UKR,,,,11-5 11-5 5-11 7-11 10-12,5,RR,Yurchenko K.,R,,UKR,,,,0
+Setka,,20220610,222,Samofal Y.,R,,UKR,,,,11-7 11-2 8-11 13-15 6-11,5,RR,Pereyaslavsky D.,R,,UKR,,,,0
+Setka,,20220610,223,Pashkevich R.,R,,UKR,,,,3-11 13-11 7-11 11-9 12-10,5,RR,Dobrzhinsky O.,R,,UKR,,,,1
+Setka,,20220610,224,Pfleger M.,R,,UKR,,,,4-11 7-11 7-11  ,5,RR,Rulc L.,R,,UKR,,,,0
+Setka,,20220610,225,Kyilo V.,R,,UKR,,,,12-10 11-9 6-11 5-11 5-11,5,RR,Sachuk S.,R,,UKR,,,,0
+Setka,,20220610,226,Cuba M.,R,,UKR,,,,5-11 5-11 11-5 12-10 14-12,5,RR,Svoboda V.,R,,UKR,,,,1
+Setka,,20220610,227,Zaporozhets R.,R,,UKR,,,,10-12 11-13 9-11  ,5,RR,Lushchyk A.,R,,UKR,,,,0
+Setka,,20220610,228,Khorolskyi V.,R,,UKR,,,,11-8 7-11 11-13 9-11 ,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220610,229,Zholubak R.,R,,UKR,,,,12-10 5-11 12-10 11-7 ,5,RR,Bochkovskyi V.,R,,UKR,,,,1
+Setka,,20220610,230,Brichacek D.,R,,UKR,,,,17-15 9-11 11-6 11-7 ,5,RR,Pfleger M.,R,,UKR,,,,1
+Setka,,20220610,231,Huchok A.,R,,UKR,,,,12-14 11-13 5-11  ,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220610,232,Mischenko S.,R,,UKR,,,,11-9 12-10 11-8  ,5,RR,Uzun N.,R,,UKR,,,,1
+Setka,,20220610,233,Marchuk M.,R,,UKR,,,,6-11 6-11 6-11  ,5,RR,Hryshchenko O.,R,,UKR,,,,0
+Setka,,20220610,234,Tebenko Y.,R,,UKR,,,,11-8 6-11 11-9 7-11 11-9,5,RR,Okopnyi V.,R,,UKR,,,,1
+Setka,,20220610,235,Drobov D.,R,,UKR,,,,11-9 7-11 9-11 7-11 ,5,RR,Yurchenko K.,R,,UKR,,,,0
+Setka,,20220610,236,Melisek M.,R,,UKR,,,,11-13 11-7 11-7 8-11 7-11,5,RR,Novak R.,R,,UKR,,,,0
+Setka,,20220610,237,Volkov P.,R,,UKR,,,,7-11 8-11 12-10 6-11 ,5,RR,Peretiatko A.,R,,UKR,,,,0
+Setka,,20220610,238,Fafek J.,R,,UKR,,,,11-7 11-9 11-2  ,5,RR,Rulc L.,R,,UKR,,,,1
+Setka,,20220610,239,Crainiucov G.,R,,UKR,,,,10-12 11-6 12-14 11-8 9-11,5,RR,Kovik I.,R,,UKR,,,,0
+Setka,,20220610,240,Huchok A.,R,,UKR,,,,10-12 5-11 11-9 12-10 8-11,5,RR,Budnikov A.,R,,UKR,,,,0
+Setka,,20220610,241,Sachuk S.,R,,UKR,,,,11-8 4-11 11-5 11-9 ,5,RR,Diachenko M.,R,,UKR,,,,1
+Setka,,20220610,242,Miroshnychenko S.,R,,UKR,,,,11-3 11-6 13-11  ,5,RR,Maliuk S.,R,,UKR,,,,1
+Setka,,20220610,243,Samofal Y.,R,,UKR,,,,9-11 11-8 11-9 11-13 11-5,5,RR,Khorolskyi V.,R,,UKR,,,,1
+Setka,,20220610,244,Vilenchyts N.,R,,UKR,,,,7-11 12-10 11-8 11-5 ,5,RR,Honchar Y.,R,,UKR,,,,1
+Setka,,20220610,245,Novak R.,R,,UKR,,,,11-9 3-11 8-11 11-8 7-11,5,RR,Svoboda V.,R,,UKR,,,,0
+Setka,,20220610,246,Pfleger M.,R,,UKR,,,,13-11 11-9 11-7  ,5,RR,Brichacek D.,R,,UKR,,,,1
+Setka,,20220610,247,Pashkevich R.,R,,UKR,,,,11-3 7-11 11-9 11-8 ,5,RR,Mischenko S.,R,,UKR,,,,1
+Setka,,20220610,248,Kolos Y.,R,,UKR,,,,13-15 9-11 4-11  ,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220610,249,Kyilo V.,L,,UKR,,,,11-8 11-9 11-8  ,5,RR,Chernyshov D.,L,,UKR,,,,1
+Setka,,20220610,250,Volkov P.,R,,UKR,,,,11-4 9-11 7-11 9-11 ,5,RR,Pereyaslavsky D.,R,,UKR,,,,0
+Setka,,20220610,251,Melisek M.,R,,UKR,,,,11-7 5-11 11-9 4-11 7-11,5,RR,Cuba M.,R,,UKR,,,,0
+Setka,,20220610,252,Rulc L.,R,,UKR,,,,11-5 9-11 6-11 2-11 ,5,RR,Fafek J.,R,,UKR,,,,0
+Setka,,20220610,253,Crainiucov G.,R,,UKR,,,,5-11 12-10 11-6 9-11 5-11,5,RR,Dobrzhinsky O.,R,,UKR,,,,0
+Setka,,20220610,254,Marchuk M.,R,,UKR,,,,9-11 7-11 11-9 11-7 8-11,5,RR,Sachuk S.,R,,UKR,,,,0
+Setka,,20220610,255,Tebenko Y.,R,,UKR,,,,11-9 11-4 11-13 5-11 8-11,5,RR,Huchok A.,R,,UKR,,,,0
+Setka,,20220610,256,Sokoltsov Y.,R,,UKR,,,,11-5 11-5 11-5  ,5,RR,Peretiatko A.,R,,UKR,,,,1
+Setka,,20220610,257,Polak K.,R,,UKR,,,,11-9 3-11 7-11 7-11 ,5,RR,Provaznik L.,R,,UKR,,,,0
+Setka,,20220610,258,Rejent S.,R,,UKR,,,,11-6 11-8 9-11 11-5 ,5,RR,Chalupa J.,R,,UKR,,,,1
+Setka,,20220610,259,Uzun N.,R,,UKR,,,,11-9 11-4 12-10  ,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220610,260,Kyilo V.,R,,UKR,,,,11-9 11-5 11-5  ,5,RR,Hryshchenko O.,R,,UKR,,,,1
+Setka,,20220610,261,Okopnyi V.,R,,UKR,,,,11-3 7-11 8-11 7-11 ,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220610,262,Samofal Y.,R,,UKR,,,,11-8 11-4 11-7  ,5,RR,Volkov P.,R,,UKR,,,,1
+Setka,,20220610,263,Sabuka D.,R,,UKR,,,,11-5 3-11 7-11 8-11 ,5,RR,Stehlik M.,R,,UKR,,,,0
+Setka,,20220610,264,Krames J.,R,,UKR,,,,11-6 8-11 8-11 7-11 ,5,RR,Liska T.,R,,UKR,,,,0
+Setka,,20220610,265,Pashkevich R.,R,,UKR,,,,11-1 9-11 8-11 11-8 12-10,5,RR,Crainiucov G.,R,,UKR,,,,1
+Setka,,20220610,266,Budnikov A.,R,,UKR,,,,5-11 5-11 11-7 10-12 ,5,RR,Kolos Y.,R,,UKR,,,,0
+Setka,,20220610,267,Diachenko M.,R,,UKR,,,,11-7 8-11 12-10 9-11 5-11,5,RR,Chernyshov D.,R,,UKR,,,,0
+Setka,,20220610,268,Khorolskyi V.,R,,UKR,,,,11-5 8-11 11-4 11-6 ,5,RR,Peretiatko A.,R,,UKR,,,,1
+Setka,,20220610,269,Polak K.,R,,UKR,,,,7-11 11-7 8-11 11-7 9-11,5,RR,Stehlik M.,R,,UKR,,,,0
+Setka,,20220610,270,Rejent S.,R,,UKR,,,,11-6 11-6 6-11 2-11 9-11,5,RR,Liska T.,R,,UKR,,,,0
+Setka,,20220610,271,Mischenko S.,R,,UKR,,,,11-9 8-11 11-7 12-10 ,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220610,272,Marchuk M.,R,,UKR,,,,10-12 11-13 13-11 11-9 7-11,5,RR,Kyilo V.,R,,UKR,,,,0
+Setka,,20220610,273,Pereyaslavsky D.,R,,UKR,,,,10-12 11-13 11-6 7-11 ,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220610,274,Sabuka D.,R,,UKR,,,,11-13 7-11 13-11 11-13 ,5,RR,Provaznik L.,R,,UKR,,,,0
+Setka,,20220610,275,Krames J.,R,,UKR,,,,8-11 11-13 13-15  ,5,RR,Chalupa J.,R,,UKR,,,,0
+Setka,,20220610,276,Dobrzhinsky O.,R,,UKR,,,,11-13 11-13 9-11  ,5,RR,Uzun N.,R,,UKR,,,,0
+Setka,,20220610,277,Sachuk S.,R,,UKR,,,,8-11 10-12 11-7 11-9 14-12,5,RR,Chernyshov D.,R,,UKR,,,,1
+Setka,,20220610,278,Verbianyi V.,R,,UKR,,,,11-8 11-6 7-11 11-9 ,5,RR,Pavlyuk O.,R,,UKR,,,,1
+Setka,,20220610,279,Polak K.,R,,UKR,,,,5-11 9-11 6-11  ,5,RR,Sabuka D.,L,,UKR,,,,0
+Setka,,20220610,280,Rejent S.,L,,UKR,,,,9-11 9-11 11-9 11-9 5-11,5,RR,Krames J.,R,,UKR,,,,0
+Setka,,20220610,281,Hryshchenko O.,R,,UKR,,,,11-5 11-3 13-11  ,5,RR,Diachenko M.,R,,UKR,,,,1
+Setka,,20220610,282,Kistechko M.,R,,UKR,,,,7-11 11-8 11-9 12-14 6-11,5,RR,Lyevshyn V.,R,,UKR,,,,0
+Setka,,20220610,283,Stehlik M.,R,,UKR,,,,14-16 2-11 5-11  ,5,RR,Provaznik L.,R,,UKR,,,,0
+Setka,,20220610,284,Liska T.,R,,UKR,,,,11-9 11-2 11-7  ,5,RR,Chalupa J.,R,,UKR,,,,1
+Setka,,20220611,285,Danyliuk N.,R,,UKR,,,,11-9 8-11 11-8 11-9 ,5,RR,Pavlyuk O.,R,,UKR,,,,1
+Setka,,20220611,286,Bielokon Y.,R,,UKR,,,,14-12 8-11 11-4 15-13 ,5,RR,Melashenko O.,R,,UKR,,,,1
+Setka,,20220611,287,Sabuka D.,R,,UKR,,,,11-6 11-8 11-9  ,5,RR,Polak K.,R,,UKR,,,,1
+Setka,,20220611,288,Krames J.,R,,UKR,,,,11-5 11-4 11-7  ,5,RR,Rejent S.,R,,UKR,,,,1
+Setka,,20220611,289,Chelpanov S.,R,,UKR,,,,8-11 9-11 7-11  ,5,RR,Kurischenko Y.,R,,UKR,,,,0
+Setka,,20220611,290,Verbianyi V.,R,,UKR,,,,8-11 10-12 11-7 13-11 11-7,5,RR,Kistechko M.,R,,UKR,,,,1
+Setka,,20220611,291,Provaznik L.,R,,UKR,,,,8-11 11-7 14-12 8-11 8-11,5,RR,Stehlik M.,R,,UKR,,,,0
+Setka,,20220611,292,Chalupa J.,R,,UKR,,,,8-11 8-11 4-11  ,5,RR,Liska T.,R,,UKR,,,,0
+Setka,,20220611,293,Yushko R.,R,,UKR,,,,7-11 9-11 7-11  ,5,RR,Husiev V.,R,,UKR,,,,0
+Setka,,20220611,294,Bondarenko S.,R,,UKR,,,,4-11 11-13 8-11  ,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220611,295,Danyliuk N.,R,,UKR,,,,11-8 6-11 12-10 11-6 ,5,RR,Lyevshyn V.,R,,UKR,,,,1
+Setka,,20220611,296,Homylko A.,R,,UKR,,,,5-11 10-12 8-11  ,5,RR,Chuliukov S.,R,,UKR,,,,0
+Setka,,20220611,297,Shyndel I.,R,,UKR,,,,3-11 5-11 11-8 8-11 ,5,RR,Mishchenko O.,R,,UKR,,,,0
+Setka,,20220611,298,Kistechko M.,R,,UKR,,,,9-11 11-9 11-2 5-11 11-6,5,RR,Pavlyuk O.,R,,UKR,,,,1
+Setka,,20220611,299,Bielokon Y.,R,,UKR,,,,11-5 11-7 7-11 11-13 11-9,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220611,300,Chelpanov S.,R,,UKR,,,,11-2 7-11 11-3 11-6 ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,301,Verbianyi V.,R,,UKR,,,,6-11 5-11 11-8 7-11 ,5,RR,Lyevshyn V.,R,,UKR,,,,0
+Setka,,20220611,302,Chuliukov S.,R,,UKR,,,,11-7 8-11 11-9 11-6 ,5,RR,Melashenko O.,R,,UKR,,,,1
+Setka,,20220611,303,Mishchenko O.,R,,UKR,,,,5-11 8-11 11-7 8-11 ,5,RR,Kurischenko Y.,R,,UKR,,,,0
+Setka,,20220611,304,Danyliuk N.,R,,UKR,,,,11-8 11-3 8-11 11-7 ,5,RR,Kistechko M.,R,,UKR,,,,1
+Setka,,20220611,305,Yushko R.,R,,UKR,,,,3-11 11-9 5-11 6-11 ,5,RR,Homylko A.,R,,UKR,,,,0
+Setka,,20220611,306,Bondarenko S.,R,,UKR,,,,9-11 7-11 11-7 8-11 ,5,RR,Shyndel I.,R,,UKR,,,,0
+Setka,,20220611,307,Lyevshyn V.,R,,UKR,,,,9-11 10-12 11-7 11-7 16-18,5,RR,Pavlyuk O.,R,,UKR,,,,0
+Setka,,20220611,308,Bielokon Y.,R,,UKR,,,,13-11 14-12 10-12 7-11 6-11,5,RR,Chuliukov S.,R,,UKR,,,,0
+Setka,,20220611,309,Chelpanov S.,R,,UKR,,,,6-11 11-8 14-12 14-12 ,5,RR,Mishchenko O.,R,,UKR,,,,1
+Setka,,20220611,310,Danyliuk N.,L,,UKR,,,,11-6 9-11 11-6 11-5 ,5,RR,Verbianyi V.,L,,UKR,,,,1
+Setka,,20220611,311,Homylko A.,R,,UKR,,,,11-1 11-7 11-2  ,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220611,312,Shyndel I.,R,,UKR,,,,12-10 12-14 11-9 12-14 11-6,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,313,Kistechko M.,R,,UKR,,,,8-11 15-13 8-11 10-12 ,5,RR,Verbianyi V.,R,,UKR,,,,0
+Setka,,20220611,314,Yushko R.,R,,UKR,,,,6-11 6-11 11-6 9-11 ,5,RR,Melashenko O.,R,,UKR,,,,0
+Setka,,20220611,315,Bondarenko S.,R,,UKR,,,,10-12 19-17 5-11 11-7 10-12,5,RR,Kurischenko Y.,R,,UKR,,,,0
+Setka,,20220611,316,Lyevshyn V.,R,,UKR,,,,11-5 2-11 10-12 11-5 11-6,5,RR,Danyliuk N.,R,,UKR,,,,1
+Setka,,20220611,317,Bielokon Y.,R,,UKR,,,,6-11 8-11 11-2 11-5 9-11,5,RR,Homylko A.,R,,UKR,,,,0
+Setka,,20220611,318,Chelpanov S.,R,,UKR,,,,12-10 11-3 11-8  ,5,RR,Shyndel I.,R,,UKR,,,,1
+Setka,,20220611,319,Yushko R.,R,,UKR,,,,11-5 15-17 11-7 11-3 ,5,RR,Chuliukov S.,R,,UKR,,,,1
+Setka,,20220611,320,Bondarenko S.,R,,UKR,,,,11-4 8-11 7-11 11-7 7-11,5,RR,Mishchenko O.,R,,UKR,,,,0
+Setka,,20220611,321,Husiev V.,R,,UKR,,,,10-12 11-9 10-12 12-10 11-5,5,RR,Melashenko O.,R,,UKR,,,,1
+Setka,,20220611,322,Kovalchuk O.,R,,UKR,,,,11-7 8-11 10-12 11-8 11-5,5,RR,Kurischenko Y.,R,,UKR,,,,1
+Setka,,20220611,323,Bielokon Y.,R,,UKR,,,,11-8 11-13 7-11 9-11 ,5,RR,Yushko R.,R,,UKR,,,,0
+Setka,,20220611,324,Chelpanov S.,R,,UKR,,,,11-8 11-9 6-11 11-2 ,5,RR,Bondarenko S.,R,,UKR,,,,1
+Setka,,20220611,325,Homylko A.,R,,UKR,,,,11-5 11-6 7-11 11-7 ,5,RR,Melashenko O.,R,,UKR,,,,1
+Setka,,20220611,326,Shyndel I.,R,,UKR,,,,11-9 11-5 10-12 11-7 ,5,RR,Kurischenko Y.,R,,UKR,,,,1
+Setka,,20220611,327,Syksa A.,R,,UKR,,,,14-12 13-11 8-11 11-8 ,5,RR,Aristarkhov S.,R,,UKR,,,,1
+Setka,,20220611,328,Chuliukov S.,R,,UKR,,,,11-8 11-9 11-4  ,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220611,329,Mishchenko O.,R,,UKR,,,,12-10 11-7 12-10  ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,330,Okopnyi V.,R,,UKR,,,,11-9 11-5 11-6  ,5,RR,Korobko V.,R,,UKR,,,,1
+Setka,,20220611,331,Kurylenko O.,R,,UKR,,,,5-11 12-10 5-11 8-11 ,5,RR,Arzanov D.,R,,UKR,,,,0
+Setka,,20220611,332,Kolos Y.,R,,UKR,,,,7-11 5-11 11-6 11-6 9-11,5,RR,Budnikov A.,R,,UKR,,,,0
+Setka,,20220611,333,Honchar Y.,R,,UKR,,,,11-13 11-5 7-11 11-7 12-14,5,RR,Bochkovskyi V.,R,,UKR,,,,0
+Setka,,20220611,334,Ziakun O.,R,,UKR,,,,7-11 11-8 6-11 8-11 ,5,RR,Aristarkhov S.,R,,UKR,,,,0
+Setka,,20220611,335,Karpenko O.,R,,UKR,,,,11-7 6-11 11-6 11-7 ,5,RR,Semenets S.,R,,UKR,,,,1
+Setka,,20220611,336,Rotari A.,L,,UKR,,,,11-6 11-9 9-11 6-11 11-5,5,RR,Rotaru S.,R,,UKR,,,,1
+Setka,,20220611,337,Tebenko Y.,L,,UKR,,,,13-15 11-8 11-6 11-3 ,5,RR,Huchok A.,R,,UKR,,,,1
+Setka,,20220611,338,Syksa A.,R,,UKR,,,,9-11 11-5 11-5 11-9 ,5,RR,Kurylenko O.,R,,UKR,,,,1
+Setka,,20220611,339,Yurchenko K.,R,,UKR,,,,4-11 11-7 7-11 11-6 11-5,5,RR,Vilenchyts N.,R,,UKR,,,,1
+Setka,,20220611,340,Pavliuk V.,R,,UKR,,,,5-11 9-11 6-11  ,5,RR,Minenko A.,L,,UKR,,,,0
+Setka,,20220611,341,Bazany D.,R,,UKR,,,,11-4 4-11 12-14 6-11 ,5,RR,Polak S.,R,,UKR,,,,0
+Setka,,20220611,342,Kalev L.,R,,UKR,,,,11-9 4-11 10-12 7-11 ,5,RR,Bulat P.,R,,UKR,,,,0
+Setka,,20220611,343,Okopnyi V.,R,,UKR,,,,5-11 11-8 11-8 7-11 8-11,5,RR,Budnikov A.,R,,UKR,,,,0
+Setka,,20220611,344,Drobov D.,R,,UKR,,,,7-11 11-7 12-10 15-17 11-7,5,RR,Zholubak R.,R,,UKR,,,,1
+Setka,,20220611,345,Ziakun O.,R,,UKR,,,,11-4 9-11 4-11 9-11 ,5,RR,Arzanov D.,R,,UKR,,,,0
+Setka,,20220611,346,Solomko S.,R,,UKR,,,,8-11 6-11 12-10 11-9 4-11,5,RR,Klymenko K.,R,,UKR,,,,0
+Setka,,20220611,347,Bouska M.,R,,UKR,,,,11-7 12-10 11-6  ,5,RR,Rejent S.,R,,UKR,,,,1
+Setka,,20220611,348,Varga K.,R,,UKR,,,,11-9 12-10 12-10  ,5,RR,Stracar P.,R,,UKR,,,,1
+Setka,,20220611,349,Huchok A.,R,,UKR,,,,7-11 11-5 5-11 2-11 ,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220611,350,Mihalachi I.,R,,UKR,,,,11-6 11-4 11-8  ,5,RR,Melnic F.,R,,UKR,,,,1
+Setka,,20220611,351,Honchar Y.,R,,UKR,,,,2-11 14-12 5-11 8-11 ,5,RR,Vilenchyts N.,R,,UKR,,,,0
+Setka,,20220611,352,Kurylenko O.,R,,UKR,,,,11-7 9-11 9-11 11-8 10-12,5,RR,Aristarkhov S.,R,,UKR,,,,0
+Setka,,20220611,353,Karpenko O.,R,,UKR,,,,7-11 11-4 9-11 6-11 ,5,RR,Minenko A.,R,,UKR,,,,0
+Setka,,20220611,354,Krames J.,R,,UKR,,,,11-5 6-11 11-9 7-11 9-11,5,RR,Brandtl A.,R,,UKR,,,,0
+Setka,,20220611,355,Rotari A.,R,,UKR,,,,11-6 2-11 8-11 4-11 ,5,RR,Bulat P.,R,,UKR,,,,0
+Setka,,20220611,356,Zelman D.,R,,UKR,,,,11-7 11-4 9-11 11-6 ,5,RR,Tokar M.,R,,UKR,,,,1
+Setka,,20220611,357,Kolos Y.,R,,UKR,,,,11-4 11-5 11-5  ,5,RR,Tebenko Y.,R,,UKR,,,,1
+Setka,,20220611,358,Syksa A.,R,,UKR,,,,5-11 7-11 9-11  ,5,RR,Arzanov D.,R,,UKR,,,,0
+Setka,,20220611,359,Zholubak R.,R,,UKR,,,,11-7 14-16 15-13 7-11 11-13,5,RR,Bochkovskyi V.,R,,UKR,,,,0
+Setka,,20220611,360,Klymenko K.,R,,UKR,,,,4-11 11-9 9-11 6-11 ,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220611,361,Bouska M.,R,,UKR,,,,10-12 4-11 11-3 11-5 12-10,5,RR,Brandtl A.,R,,UKR,,,,1
+Setka,,20220611,362,Bazany D.,R,,UKR,,,,11-6 11-8 11-3  ,5,RR,Stracar P.,R,,UKR,,,,1
+Setka,,20220611,363,Melnic F.,R,,UKR,,,,11-7 9-11 15-17 6-11 ,5,RR,Rotaru S.,R,,UKR,,,,0
+Setka,,20220611,364,Okopnyi V.,R,,UKR,,,,9-11 12-10 11-8 7-11 11-8,5,RR,Huchok A.,R,,UKR,,,,1
+Setka,,20220611,365,Yurchenko K.,R,,UKR,,,,11-8 13-11 7-11 6-11 11-7,5,RR,Drobov D.,R,,UKR,,,,1
+Setka,,20220611,366,Ziakun O.,R,,UKR,,,,11-8 11-8 11-8  ,5,RR,Kurylenko O.,L,,UKR,,,,1
+Setka,,20220611,367,Pavliuk V.,R,,UKR,,,,6-11 11-7 11-8 12-10 ,5,RR,Solomko S.,L,,UKR,,,,1
+Setka,,20220611,368,Kalev L.,R,,UKR,,,,7-11 6-11 8-11  ,5,RR,Mihalachi I.,R,,UKR,,,,0
+Setka,,20220611,369,Krames J.,R,,UKR,,,,11-5 12-10 11-2  ,5,RR,Rejent S.,R,,UKR,,,,1
+Setka,,20220611,370,Tokar M.,L,,UKR,,,,11-8 7-11 11-6 13-11 ,5,RR,Polak S.,R,,UKR,,,,1
+Setka,,20220611,371,Tebenko Y.,R,,UKR,,,,8-11 11-5 12-10 12-14 11-8,5,RR,Budnikov A.,R,,UKR,,,,1
+Setka,,20220611,372,Arzanov D.,R,,UKR,,,,7-11 11-4 10-12 6-11 ,5,RR,Aristarkhov S.,R,,UKR,,,,0
+Setka,,20220611,373,Honchar Y.,R,,UKR,,,,11-9 5-11 7-11 13-11 11-5,5,RR,Zholubak R.,R,,UKR,,,,1
+Setka,,20220611,374,Karpenko O.,R,,UKR,,,,4-11 8-11 10-12  ,5,RR,Klymenko K.,R,,UKR,,,,0
+Setka,,20220611,375,Varga K.,R,,UKR,,,,11-9 6-11 11-6 12-10 ,5,RR,Zelman D.,R,,UKR,,,,1
+Setka,,20220611,376,Bouska M.,R,,UKR,,,,8-11 11-8 11-9 11-6 ,5,RR,Krames J.,R,,UKR,,,,1
+Setka,,20220611,377,Kolos Y.,R,,UKR,,,,11-4 15-13 11-9  ,5,RR,Korobko V.,R,,UKR,,,,1
+Setka,,20220611,378,Rotari A.,R,,UKR,,,,11-9 7-11 12-10 11-6 ,5,RR,Melnic F.,R,,UKR,,,,1
+Setka,,20220611,379,Drobov D.,R,,UKR,,,,12-10 11-8 11-6  ,5,RR,Vilenchyts N.,R,,UKR,,,,1
+Setka,,20220611,380,Ziakun O.,R,,UKR,,,,11-8 13-11 7-11 6-11 7-11,5,RR,Syksa A.,R,,UKR,,,,0
+Setka,,20220611,381,Solomko S.,R,,UKR,,,,7-11 9-11 12-10 8-11 ,5,RR,Minenko A.,R,,UKR,,,,0
+Setka,,20220611,382,Brandtl A.,R,,UKR,,,,11-8 8-11 13-11 11-8 ,5,RR,Rejent S.,R,,UKR,,,,1
+Setka,,20220611,383,Bazany D.,R,,UKR,,,,11-5 7-11 11-13 5-11 ,5,RR,Tokar M.,R,,UKR,,,,0
+Setka,,20220611,384,Mihalachi I.,R,,UKR,,,,11-7 9-11 6-11 7-11 ,5,RR,Bulat P.,R,,UKR,,,,0
+Setka,,20220611,385,Okopnyi V.,R,,UKR,,,,8-11 11-8 11-9 10-12 9-11,5,RR,Tebenko Y.,R,,UKR,,,,0
+Setka,,20220611,386,Yurchenko K.,R,,UKR,,,,11-9 11-9 12-10  ,5,RR,Bochkovskyi V.,R,,UKR,,,,1
+Setka,,20220611,387,Aristarkhov S.,R,,UKR,,,,11-7 6-11 11-9 13-11 ,5,RR,Arzanov D.,R,,UKR,,,,1
+Setka,,20220611,388,Pavliuk V.,R,,UKR,,,,9-11 7-11 8-11  ,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220611,389,Kalev L.,R,,UKR,,,,12-10 11-5 11-5  ,5,RR,Rotaru S.,R,,UKR,,,,1
+Setka,,20220611,390,Rejent S.,R,,UKR,,,,9-11 7-11 9-11  ,5,RR,Krames J.,R,,UKR,,,,0
+Setka,,20220611,391,Zelman D.,R,,UKR,,,,11-8 13-11 5-11 11-8 ,5,RR,Stracar P.,R,,UKR,,,,1
+Setka,,20220611,392,Kolos Y.,R,,UKR,,,,8-11 13-11 4-11 11-7 9-11,5,RR,Huchok A.,R,,UKR,,,,0
+Setka,,20220611,393,Honchar Y.,R,,UKR,,,,2-11 11-5 11-3 11-8 ,5,RR,Drobov D.,R,,UKR,,,,1
+Setka,,20220611,394,Karpenko O.,R,,UKR,,,,12-10 11-9 8-11 11-8 ,5,RR,Solomko S.,R,,UKR,,,,1
+Setka,,20220611,395,Syksa A.,R,,UKR,,,,11-6 11-8 11-6  ,5,RR,Ziakun O.,R,,UKR,,,,1
+Setka,,20220611,396,Brandtl A.,R,,UKR,,,,7-11 11-9 6-11 9-11 ,5,RR,Bouska M.,R,,UKR,,,,0
+Setka,,20220611,397,Rotari A.,R,,UKR,,,,11-5 11-5 11-9  ,5,RR,Mihalachi I.,R,,UKR,,,,1
+Setka,,20220611,398,Varga K.,R,,UKR,,,,11-9 6-11 11-5 7-11 3-11,5,RR,Polak S.,R,,UKR,,,,0
+Setka,,20220611,399,Budnikov A.,R,,UKR,,,,9-11 14-12 8-11 8-11 ,5,RR,Korobko V.,R,,UKR,,,,0
+Setka,,20220611,400,Vasylets A.,L,,UKR,,,,11-5 11-3 11-3  ,5,RR,Priadko Y.,L,,UKR,,,,1
+Setka,,20220611,401,Yurchenko K.,R,,UKR,,,,12-10 6-11 15-13 3-11 12-14,5,RR,Zholubak R.,R,,UKR,,,,0
+Setka,,20220611,402,Hries V.,R,,UKR,,,,9-11 11-8 10-12 12-14 ,5,RR,Novikov V.,R,,UKR,,,,0
+Setka,,20220611,403,Pavliuk V.,R,,UKR,,,,6-11 11-9 11-7 5-11 7-11,5,RR,Klymenko K.,R,,UKR,,,,0
+Setka,,20220611,404,Bazany D.,R,,UKR,,,,9-11 11-3 11-3 11-8 ,5,RR,Zelman D.,R,,UKR,,,,1
+Setka,,20220611,405,Kalev L.,R,,UKR,,,,11-9 8-11 11-7 4-11 12-10,5,RR,Melnic F.,R,,UKR,,,,1
+Setka,,20220611,406,Horak D.,R,,UKR,,,,11-4 12-10 11-8  ,5,RR,Brichacek D.,R,,UKR,,,,1
+Setka,,20220611,407,Okopnyi V.,R,,UKR,,,,6-11 8-11 12-10 8-11 ,5,RR,Kolos Y.,R,,UKR,,,,0
+Setka,,20220611,408,Maliuk S.,R,,UKR,,,,11-8 12-14 9-11 11-9 3-11,5,RR,Ziakun V.,R,,UKR,,,,0
+Setka,,20220611,409,Burdelnyi S.,R,,UKR,,,,11-8 11-2 10-12 7-11 5-11,5,RR,Khairov D.,R,,UKR,,,,0
+Setka,,20220611,410,Vilenchyts N.,R,,UKR,,,,11-8 8-11 11-7 11-8 ,5,RR,Bochkovskyi V.,R,,UKR,,,,1
+Setka,,20220611,411,Minenko A.,R,,UKR,,,,11-9 9-11 5-11 11-5 9-11,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220611,412,Hofmann M.,R,,UKR,,,,11-9 5-11 12-10 12-14 11-9,5,RR,Fafek J.,R,,UKR,,,,1
+Setka,,20220611,413,Bulat P.,R,,UKR,,,,11-6 11-7 11-6  ,5,RR,Rotaru S.,R,,UKR,,,,1
+Setka,,20220611,414,Varga K.,R,,UKR,,,,11-4 11-7 11-6  ,5,RR,Tokar M.,R,,UKR,,,,1
+Setka,,20220611,415,Tebenko Y.,R,,UKR,,,,17-15 13-11 8-11 12-10 ,5,RR,Korobko V.,R,,UKR,,,,1
+Setka,,20220611,416,Honchar Y.,R,,UKR,,,,9-11 10-12 12-10 5-11 ,5,RR,Yurchenko K.,R,,UKR,,,,0
+Setka,,20220611,417,Lyman O.,R,,UKR,,,,11-3 13-11 11-8  ,5,RR,Boklah R.,R,,UKR,,,,1
+Setka,,20220611,418,Dovzhenko S.,R,,UKR,,,,7-11 11-5 11-9 12-10 ,5,RR,Kovshun Y.,R,,UKR,,,,1
+Setka,,20220611,419,Karpenko O.,R,,UKR,,,,11-4 10-12 12-10 8-11 9-11,5,RR,Pavliuk V.,R,,UKR,,,,0
+Setka,,20220611,420,Horak D.,R,,UKR,,,,11-9 11-7 11-7  ,5,RR,Fafek J.,R,,UKR,,,,1
+Setka,,20220611,421,Rotari A.,R,,UKR,,,,11-8 11-4 7-11 5-11 7-11,5,RR,Kalev L.,R,,UKR,,,,0
+Setka,,20220611,422,Stracar P.,R,,UKR,,,,11-9 11-5 11-9  ,5,RR,Polak S.,R,,UKR,,,,1
+Setka,,20220611,423,Huchok A.,R,,UKR,,,,11-8 8-11 12-10 7-11 8-11,5,RR,Budnikov A.,R,,UKR,,,,0
+Setka,,20220611,424,Drobov D.,R,,UKR,,,,12-14 11-1 11-7 11-9 ,5,RR,Bochkovskyi V.,R,,UKR,,,,1
+Setka,,20220611,425,Vasylets A.,R,,UKR,,,,10-12 11-5 12-10 11-6 ,5,RR,Ziakun V.,R,,UKR,,,,1
+Setka,,20220611,426,Hries V.,R,,UKR,,,,8-11 9-11 6-11  ,5,RR,Khairov D.,R,,UKR,,,,0
+Setka,,20220611,427,Solomko S.,R,,UKR,,,,11-9 7-11 6-11 9-11 ,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220611,428,Hofmann M.,R,,UKR,,,,11-7 11-8 11-9  ,5,RR,Brichacek D.,R,,UKR,,,,1
+Setka,,20220611,429,Bazany D.,R,,UKR,,,,11-8 9-11 11-6 11-6 ,5,RR,Varga K.,R,,UKR,,,,1
+Setka,,20220611,430,Mihalachi I.,R,,UKR,,,,7-11 11-6 11-5 11-7 ,5,RR,Rotaru S.,L,,UKR,,,,1
+Setka,,20220611,431,Fedyna R.,L,,UKR,,,,7-11 6-11 11-8 8-11 ,5,RR,Prus S.,R,,UKR,,,,0
+Setka,,20220611,432,Boklah R.,R,,UKR,,,,7-11 11-5 11-9 11-6 ,5,RR,Priadko Y.,R,,UKR,,,,1
+Setka,,20220611,433,Zholubak R.,R,,UKR,,,,9-11 11-5 11-9 11-4 ,5,RR,Vilenchyts N.,R,,UKR,,,,1
+Setka,,20220611,434,Kovshun Y.,R,,UKR,,,,6-11 11-8 5-11 5-11 ,5,RR,Novikov V.,R,,UKR,,,,0
+Setka,,20220611,435,Klymenko K.,R,,UKR,,,,4-11 6-11 13-11 11-7 9-11,5,RR,Minenko A.,R,,UKR,,,,0
+Setka,,20220611,436,Horak D.,R,,UKR,,,,11-8 9-11 11-13 7-11 ,5,RR,Hofmann M.,R,,UKR,,,,0
+Setka,,20220611,437,Melnic F.,R,,UKR,,,,3-11 2-11 11-8 2-11 ,5,RR,Bulat P.,R,,UKR,,,,0
+Setka,,20220611,438,Zelman D.,R,,UKR,,,,11-2 5-11 3-11 5-11 ,5,RR,Polak S.,R,,UKR,,,,0
+Setka,,20220611,439,Dulich A.,R,,UKR,,,,11-2 7-11 11-8 11-7 ,5,RR,Konkulovskyi R.,R,,UKR,,,,1
+Setka,,20220611,440,Maliuk S.,R,,UKR,,,,8-11 11-9 11-9 8-11 9-11,5,RR,Lyman O.,R,,UKR,,,,0
+Setka,,20220611,441,Burdelnyi S.,R,,UKR,,,,1-11 11-13 8-11  ,5,RR,Dovzhenko S.,R,,UKR,,,,0
+Setka,,20220611,442,Pitsyk S.,R,,UKR,,,,10-12 11-3 10-12 9-11 ,5,RR,Polysynskyi M.,R,,UKR,,,,0
+Setka,,20220611,443,Fafek J.,R,,UKR,,,,11-6 4-11 11-7 11-7 ,5,RR,Brichacek D.,R,,UKR,,,,1
+Setka,,20220611,444,Dubrovin V.,R,,UKR,,,,11-13 5-11 11-8 11-3 7-11,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220611,445,Tokar M.,R,,UKR,,,,11-13 12-10 8-11 11-8 5-11,5,RR,Stracar P.,R,,UKR,,,,0
+Setka,,20220611,446,Sheremeta V.,R,,UKR,,,,9-11 11-8 7-11 11-9 11-8,5,RR,Gil T.,R,,UKR,,,,1
+Setka,,20220611,447,Vasylets A.,R,,UKR,,,,11-5 11-8 11-6  ,5,RR,Boklah R.,R,,UKR,,,,1
+Setka,,20220611,448,Hries V.,R,,UKR,,,,10-12 7-11 1-11  ,5,RR,Kovshun Y.,R,,UKR,,,,0
+Setka,,20220611,449,Peretiatko A.,R,,UKR,,,,6-11 11-7 11-9 6-11 11-4,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220611,450,Hofmann M.,R,,UKR,,,,9-11 11-9 12-10 11-8 ,5,RR,Horak D.,R,,UKR,,,,1
+Setka,,20220611,451,Shkepu S.,R,,UKR,,,,5-11 6-11 7-11  ,5,RR,Mul S.,R,,UKR,,,,0
+Setka,,20220611,452,Fedyna R.,R,,UKR,,,,10-12 7-11 11-9 6-11 ,5,RR,Konkulovskyi R.,R,,UKR,,,,0
+Setka,,20220611,453,Lykhytskyi O.,R,,UKR,,,,11-6 14-12 11-6  ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,454,Lyman O.,R,,UKR,,,,11-13 11-8 11-9 11-5 ,5,RR,Ziakun V.,R,,UKR,,,,1
+Setka,,20220611,455,Dovzhenko S.,R,,UKR,,,,11-7 11-5 11-7  ,5,RR,Khairov D.,R,,UKR,,,,1
+Setka,,20220611,456,Sokolov S.,R,,UKR,,,,5-11 12-10 11-7 9-11 11-9,5,RR,Balakiriev M.,R,,UKR,,,,1
+Setka,,20220611,457,Brichacek D.,R,,UKR,,,,4-11 4-11 8-11  ,5,RR,Fafek J.,R,,UKR,,,,0
+Setka,,20220611,458,Ni I.,R,,UKR,,,,11-5 11-8 11-9  ,5,RR,Sofroni D.,R,,UKR,,,,1
+Setka,,20220611,459,Chelpanov S.,R,,UKR,,,,11-5 11-2 7-11 11-3 ,5,RR,Shyndel I.,R,,UKR,,,,1
+Setka,,20220611,460,Gil T.,R,,UKR,,,,5-11 11-9 11-13 11-5 11-6,5,RR,Prus S.,R,,UKR,,,,1
+Setka,,20220611,461,Maliuk S.,L,,UKR,,,,11-5 6-11 5-11 11-5 12-10,5,RR,Priadko Y.,L,,UKR,,,,1
+Setka,,20220611,462,Burdelnyi S.,R,,UKR,,,,6-11 8-11 8-11  ,5,RR,Novikov V.,R,,UKR,,,,0
+Setka,,20220611,463,Pitsyk S.,R,,UKR,,,,11-9 4-11 9-11 11-8 12-10,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220611,464,Stehlik M.,R,,UKR,,,,11-9 11-9 11-9  ,5,RR,Cuba M.,R,,UKR,,,,1
+Setka,,20220611,465,Dubrovin V.,R,,UKR,,,,11-6 12-14 7-11 6-11 ,5,RR,Mul S.,R,,UKR,,,,0
+Setka,,20220611,466,Kurischenko Y.,R,,UKR,,,,11-4 8-11 8-11 7-11 ,5,RR,Bondarenko S.,R,,UKR,,,,0
+Setka,,20220611,467,Dulich A.,R,,UKR,,,,6-11 9-11 11-7 11-9 6-11,5,RR,Sheremeta V.,R,,UKR,,,,0
+Setka,,20220611,468,Vasylets A.,R,,UKR,,,,9-11 11-6 7-11 11-9 7-11,5,RR,Lyman O.,R,,UKR,,,,0
+Setka,,20220611,469,Balakiriev M.,R,,UKR,,,,3-11 11-9 11-4 11-8 ,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220611,470,Hries V.,R,,UKR,,,,12-10 10-12 8-11 5-11 ,5,RR,Dovzhenko S.,R,,UKR,,,,0
+Setka,,20220611,471,Provaznik L.,R,,UKR,,,,11-4 6-11 11-6 4-11 11-9,5,RR,Merkl R.,R,,UKR,,,,1
+Setka,,20220611,472,Sofroni D.,R,,UKR,,,,11-8 12-10 8-11 7-11 14-16,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220611,473,Fedyna R.,R,,UKR,,,,11-4 11-7 11-2  ,5,RR,Gil T.,R,,UKR,,,,1
+Setka,,20220611,474,Lykhytskyi O.,R,,UKR,,,,8-11 11-6 7-11 9-11 ,5,RR,Shyndel I.,R,,UKR,,,,0
+Setka,,20220611,475,Maliuk S.,R,,UKR,,,,11-5 8-11 11-3 12-10 ,5,RR,Boklah R.,R,,UKR,,,,1
+Setka,,20220611,476,Burdelnyi S.,R,,UKR,,,,9-11 11-7 9-11 11-7 11-8,5,RR,Kovshun Y.,R,,UKR,,,,1
+Setka,,20220611,477,Peretiatko A.,R,,UKR,,,,6-11 6-11 10-12  ,5,RR,Sokolov S.,R,,UKR,,,,0
+Setka,,20220611,478,Stehlik M.,R,,UKR,,,,11-7 11-6 13-11  ,5,RR,Merkl R.,R,,UKR,,,,1
+Setka,,20220611,479,Shkepu S.,R,,UKR,,,,6-11 9-11 7-11  ,5,RR,Ni I.,R,,UKR,,,,0
+Setka,,20220611,480,Bondarenko S.,R,,UKR,,,,8-11 8-11 7-11  ,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220611,481,Sheremeta V.,R,,UKR,,,,4-11 5-11 11-6 13-15 ,5,RR,Konkulovskyi R.,R,,UKR,,,,0
+Setka,,20220611,482,Ziakun V.,R,,UKR,,,,11-6 11-6 12-10  ,5,RR,Priadko Y.,R,,UKR,,,,1
+Setka,,20220611,483,Khairov D.,R,,UKR,,,,11-8 2-11 8-11 4-11 ,5,RR,Novikov V.,R,,UKR,,,,0
+Setka,,20220611,484,Pitsyk S.,R,,UKR,,,,11-8 9-11 17-15 7-11 11-13,5,RR,Balakiriev M.,R,,UKR,,,,0
+Setka,,20220611,485,Provaznik L.,R,,UKR,,,,11-7 4-11 11-6 9-11 9-11,5,RR,Cuba M.,R,,UKR,,,,0
+Setka,,20220611,486,Dubrovin V.,R,,UKR,,,,11-7 11-4 12-10  ,5,RR,Sofroni D.,R,,UKR,,,,1
+Setka,,20220611,487,Chelpanov S.,L,,UKR,,,,8-11 11-9 2-11 9-11 ,5,RR,Kurischenko Y.,R,,UKR,,,,0
+Setka,,20220611,488,Dulich A.,L,,UKR,,,,5-11 7-11 18-20  ,5,RR,Prus S.,R,,UKR,,,,0
+Setka,,20220611,489,Vasylets A.,R,,UKR,,,,11-9 11-5 2-11 4-11 9-11,5,RR,Maliuk S.,R,,UKR,,,,0
+Setka,,20220611,490,Sokolov S.,R,,UKR,,,,11-4 7-11 6-11 9-11 ,5,RR,Bambutsa R.,R,,UKR,,,,0
+Setka,,20220611,491,Stehlik M.,R,,UKR,,,,7-11 8-11 11-13  ,5,RR,Provaznik L.,L,,UKR,,,,0
+Setka,,20220611,492,Ni I.,R,,UKR,,,,10-12 9-11 4-11  ,5,RR,Mul S.,R,,UKR,,,,0
+Setka,,20220611,493,Fedyna R.,R,,UKR,,,,4-11 14-16 11-3 8-11 ,5,RR,Sheremeta V.,R,,UKR,,,,0
+Setka,,20220611,494,Lykhytskyi O.,R,,UKR,,,,4-11 5-11 11-4 11-8 12-10,5,RR,Bondarenko S.,R,,UKR,,,,1
+Setka,,20220611,495,Lyman O.,R,,UKR,,,,11-6 11-7 9-11 11-13 8-11,5,RR,Priadko Y.,R,,UKR,,,,0
+Setka,,20220611,496,Dovzhenko S.,R,,UKR,,,,11-8 10-12 11-7 9-11 11-5,5,RR,Novikov V.,R,,UKR,,,,1
+Setka,,20220611,497,Peretiatko A.,R,,UKR,,,,5-11 8-11 11-6 11-5 10-12,5,RR,Polysynskyi M.,R,,UKR,,,,0
+Setka,,20220611,498,Merkl R.,R,,UKR,,,,11-9 11-7 11-9  ,5,RR,Cuba M.,R,,UKR,,,,1
+Setka,,20220611,499,Shkepu S.,R,,UKR,,,,11-7 11-7 5-11 10-12 10-12,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220611,500,Dulich A.,R,,UKR,,,,6-11 5-11 5-11  ,5,RR,Gil T.,R,,UKR,,,,0
+Setka,,20220611,501,Kurischenko Y.,R,,UKR,,,,11-8 6-11 11-3 11-6 ,5,RR,Shyndel I.,R,,UKR,,,,1
+Setka,,20220611,502,Boklah R.,R,,UKR,,,,4-11 4-11 5-11  ,5,RR,Ziakun V.,R,,UKR,,,,0
+Setka,,20220611,503,Kovshun Y.,R,,UKR,,,,11-6 11-9 13-11  ,5,RR,Khairov D.,R,,UKR,,,,1
+Setka,,20220611,504,Pitsyk S.,R,,UKR,,,,11-9 5-11 7-11 8-11 ,5,RR,Sokolov S.,R,,UKR,,,,0
+Setka,,20220611,505,Provaznik L.,R,,UKR,,,,12-10 9-11 8-11 11-6 13-11,5,RR,Stehlik M.,R,,UKR,,,,1
+Setka,,20220611,506,Dubrovin V.,R,,UKR,,,,4-11 11-6 10-12 12-10 11-9,5,RR,Ni I.,R,,UKR,,,,1
+Setka,,20220611,507,Chelpanov S.,R,,UKR,,,,11-4 11-9 7-11 11-5 ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,508,Konkulovskyi R.,R,,UKR,,,,11-9 11-7 9-11 10-12 5-11,5,RR,Prus S.,R,,UKR,,,,0
+Setka,,20220611,509,Peretiatko A.,R,,UKR,,,,8-11 12-10 12-10 10-12 10-12,5,RR,Balakiriev M.,R,,UKR,,,,0
+Setka,,20220611,510,Cuba M.,R,,UKR,,,,13-15 8-11 11-7 11-9 8-11,5,RR,Merkl R.,R,,UKR,,,,0
+Setka,,20220611,511,Shkepu S.,R,,UKR,,,,9-11 11-4 11-9 6-11 7-11,5,RR,Sofroni D.,R,,UKR,,,,0
+Setka,,20220611,512,Fedyna R.,R,,UKR,,,,7-11 11-3 11-5 11-9 ,5,RR,Dulich A.,R,,UKR,,,,1
+Setka,,20220611,513,Lykhytskyi O.,R,,UKR,,,,11-6 2-11 7-11 7-11 ,5,RR,Kurischenko Y.,R,,UKR,,,,0
+Setka,,20220611,514,Bambutsa R.,R,,UKR,,,,11-9 7-11 9-11 11-8 11-7,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220611,515,Barsa T.,R,,UKR,,,,12-10 7-11 11-8 9-11 12-10,5,RR,Vesely F.,R,,UKR,,,,1
+Setka,,20220611,516,Mul S.,R,,UKR,,,,8-11 11-2 11-7 9-11 11-9,5,RR,Danilov I.,R,,UKR,,,,1
+Setka,,20220611,517,Chelpanov S.,R,,UKR,,,,11-13 8-11 9-11  ,5,RR,Bondarenko S.,L,,UKR,,,,0
+Setka,,20220611,518,Sheremeta V.,R,,UKR,,,,11-6 11-9 11-4  ,5,RR,Prus S.,L,,UKR,,,,1
+Setka,,20220611,519,Pitsyk S.,R,,UKR,,,,4-11 11-6 11-6 4-11 11-9,5,RR,Peretiatko A.,R,,UKR,,,,1
+Setka,,20220611,520,Vitek M.,R,,UKR,,,,11-5 13-11 8-11 6-11 6-11,5,RR,Pfleger M.,R,,UKR,,,,0
+Setka,,20220611,521,Dubrovin V.,L,,UKR,,,,11-9 7-11 11-5 11-7 ,5,RR,Shkepu S.,R,,UKR,,,,1
+Setka,,20220611,522,Gil T.,R,,UKR,,,,11-6 14-12 11-6  ,5,RR,Konkulovskyi R.,R,,UKR,,,,1
+Setka,,20220611,523,Shyndel I.,R,,UKR,,,,11-9 11-6 8-11 13-11 ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,524,Sokolov S.,R,,UKR,,,,13-11 11-8 11-7  ,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220611,525,Barsa T.,R,,UKR,,,,11-9 11-9 11-7  ,5,RR,Pfleger M.,R,,UKR,,,,1
+Setka,,20220611,526,Ni I.,R,,UKR,,,,11-4 11-9 11-5  ,5,RR,Danilov I.,R,,UKR,,,,1
+Setka,,20220611,527,Lykhytskyi O.,R,,UKR,,,,8-11 11-8 11-6 7-11 9-11,5,RR,Chelpanov S.,R,,UKR,,,,0
+Setka,,20220611,528,Balakiriev M.,R,,UKR,,,,11-7 11-7 11-8  ,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220611,529,Vitek M.,R,,UKR,,,,8-11 11-5 11-9 11-9 ,5,RR,Vesely F.,R,,UKR,,,,1
+Setka,,20220611,530,Sofroni D.,R,,UKR,,,,6-11 11-9 1-11 7-11 ,5,RR,Mul S.,R,,UKR,,,,0
+Setka,,20220611,531,Kurischenko Y.,R,,UKR,,,,18-16 11-13 11-8 6-11 11-5,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220611,532,Shypilov A.,R,,UKR,,,,11-4 8-11 9-11 11-5 3-11,5,RR,Hovorunets O.,R,,UKR,,,,0
+Setka,,20220611,533,Barsa T.,R,,UKR,,,,4-11 3-11 8-11  ,5,RR,Vitek M.,R,,UKR,,,,0
+Setka,,20220611,534,Bondarenko S.,R,,UKR,,,,10-12 10-12 4-11  ,5,RR,Shyndel I.,R,,UKR,,,,0
+Setka,,20220611,535,Vlasenko V.,R,,UKR,,,,7-11 11-1 7-11 8-11 ,5,RR,Kasianyk N.,R,,UKR,,,,0
+Setka,,20220611,536,Pfleger M.,R,,UKR,,,,4-11 8-11 5-11  ,5,RR,Vesely F.,R,,UKR,,,,0
+Setka,,20220612,537,Chaikovskyi B.,R,,UKR,,,,11-7 7-11 7-11 11-9 7-11,5,RR,Sydorak N.,R,,UKR,,,,0
+Setka,,20220612,538,Pereyaslavsky D.,R,,UKR,,,,11-9 9-11 11-4 11-7 ,5,RR,Sokoltsov Y.,R,,UKR,,,,1
+Setka,,20220612,539,Vitek M.,R,,UKR,,,,11-9 11-8 11-7  ,5,RR,Barsa T.,R,,UKR,,,,1
+Setka,,20220612,540,Dukhovenko O.,R,,UKR,,,,11-8 11-8 6-11 11-4 ,5,RR,Hrymovskyi O.,R,,UKR,,,,1
+Setka,,20220612,541,Shypilov A.,R,,UKR,,,,11-7 11-9 11-9  ,5,RR,Kasianyk N.,R,,UKR,,,,1
+Setka,,20220612,542,Volkov P.,R,,UKR,,,,13-15 3-11 5-11  ,5,RR,Samofal Y.,R,,UKR,,,,0
+Setka,,20220612,543,Vesely F.,R,,UKR,,,,11-2 11-5 11-9  ,5,RR,Pfleger M.,R,,UKR,,,,1
+Setka,,20220612,544,Chepurnyi A.,R,,UKR,,,,11-9 5-11 8-11 7-11 ,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,545,Sydorak N.,R,,UKR,,,,7-11 8-11 6-11  ,5,RR,Hovorunets O.,R,,UKR,,,,0
+Setka,,20220612,546,Kobets V.,R,,UKR,,,,11-6 11-13 9-11 3-11 ,5,RR,Kostiuk B.,R,,UKR,,,,0
+Setka,,20220612,547,Tkachov S.,R,,UKR,,,,8-11 8-11 11-8 12-14 ,5,RR,Mishchenko O.,R,,UKR,,,,0
+Setka,,20220612,548,Vlasenko V.,R,,UKR,,,,11-4 11-4 10-12 7-11 11-5,5,RR,Chaikovskyi B.,R,,UKR,,,,1
+Setka,,20220612,549,Pereyaslavsky D.,R,,UKR,,,,11-8 11-7 6-11 8-11 11-8,5,RR,Samofal Y.,R,,UKR,,,,1
+Setka,,20220612,550,Dukhovenko O.,R,,UKR,,,,12-10 11-9 11-8  ,5,RR,Babenko P.,R,,UKR,,,,1
+Setka,,20220612,551,Shypilov A.,L,,UKR,,,,7-11 11-13 8-11  ,5,RR,Sydorak N.,L,,UKR,,,,0
+Setka,,20220612,552,Kostiuk B.,R,,UKR,,,,5-11 6-11 12-10 7-11 ,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220612,553,Mishchenko O.,R,,UKR,,,,7-11 8-11 9-11  ,5,RR,Hrymovskyi O.,R,,UKR,,,,0
+Setka,,20220612,554,Chaikovskyi B.,R,,UKR,,,,11-5 6-11 11-2 9-11 12-10,5,RR,Kasianyk N.,R,,UKR,,,,1
+Setka,,20220612,555,Volkov P.,R,,UKR,,,,11-3 11-6 11-6  ,5,RR,Kobets V.,R,,UKR,,,,1
+Setka,,20220612,556,Chepurnyi A.,R,,UKR,,,,7-11 7-11 11-9 6-11 ,5,RR,Tkachov S.,R,,UKR,,,,0
+Setka,,20220612,557,Vlasenko V.,R,,UKR,,,,11-8 11-7 13-15 2-11 11-9,5,RR,Hovorunets O.,R,,UKR,,,,1
+Setka,,20220612,558,Pereyaslavsky D.,R,,UKR,,,,8-11 9-11 6-11  ,5,RR,Kostiuk B.,R,,UKR,,,,0
+Setka,,20220612,559,Dukhovenko O.,R,,UKR,,,,11-5 10-12 11-8 11-4 ,5,RR,Mishchenko O.,R,,UKR,,,,1
+Setka,,20220612,560,Shypilov A.,R,,UKR,,,,7-11 8-11 11-6 8-11 ,5,RR,Chaikovskyi B.,R,,UKR,,,,0
+Setka,,20220612,561,Kobets V.,R,,UKR,,,,9-11 9-11 14-12 9-11 ,5,RR,Samofal Y.,R,,UKR,,,,0
+Setka,,20220612,562,Tkachov S.,R,,UKR,,,,12-14 11-5 11-9 1-11 9-11,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,563,Vlasenko V.,R,,UKR,,,,11-5 11-8 11-5  ,5,RR,Sydorak N.,R,,UKR,,,,1
+Setka,,20220612,564,Volkov P.,R,,UKR,,,,11-5 13-11 11-8  ,5,RR,Sokoltsov Y.,R,,UKR,,,,1
+Setka,,20220612,565,Chepurnyi A.,R,,UKR,,,,2-11 9-11 12-10 6-11 ,5,RR,Hrymovskyi O.,R,,UKR,,,,0
+Setka,,20220612,566,Kasianyk N.,R,,UKR,,,,10-12 9-11 8-11  ,5,RR,Hovorunets O.,R,,UKR,,,,0
+Setka,,20220612,567,Pereyaslavsky D.,R,,UKR,,,,11-9 11-8 11-8  ,5,RR,Kobets V.,R,,UKR,,,,1
+Setka,,20220612,568,Dukhovenko O.,R,,UKR,,,,5-11 13-11 7-11 9-11 ,5,RR,Tkachov S.,R,,UKR,,,,0
+Setka,,20220612,569,Shypilov A.,R,,UKR,,,,7-11 11-7 12-10 9-11 6-11,5,RR,Vlasenko V.,R,,UKR,,,,0
+Setka,,20220612,570,Volkov P.,R,,UKR,,,,7-11 11-5 5-11 11-2 11-6,5,RR,Kostiuk B.,R,,UKR,,,,1
+Setka,,20220612,571,Chepurnyi A.,R,,UKR,,,,11-7 6-11 11-8 2-11 11-8,5,RR,Mishchenko O.,R,,UKR,,,,1
+Setka,,20220612,572,Chaikovskyi B.,R,,UKR,,,,8-11 3-11 11-6 4-11 ,5,RR,Hovorunets O.,R,,UKR,,,,0
+Setka,,20220612,573,Samofal Y.,R,,UKR,,,,6-11 8-11 11-9 11-3 11-9,5,RR,Sokoltsov Y.,R,,UKR,,,,1
+Setka,,20220612,574,Babenko P.,R,,UKR,,,,8-11 11-8 7-11 8-11 ,5,RR,Hrymovskyi O.,R,,UKR,,,,0
+Setka,,20220612,575,Sydorak N.,R,,UKR,,,,11-9 11-5 10-12 11-8 ,5,RR,Kasianyk N.,R,,UKR,,,,1
+Setka,,20220612,576,Pereyaslavsky D.,R,,UKR,,,,7-11 7-11 5-11  ,5,RR,Volkov P.,R,,UKR,,,,0
+Setka,,20220612,577,Dukhovenko O.,R,,UKR,,,,7-11 7-11 11-8 13-11 11-5,5,RR,Chepurnyi A.,R,,UKR,,,,1
+Setka,,20220612,578,Kobets V.,R,,UKR,,,,14-12 7-11 10-12 11-9 9-11,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220612,579,Tkachov S.,R,,UKR,,,,11-6 11-13 11-3 8-11 12-10,5,RR,Hrymovskyi O.,R,,UKR,,,,1
+Setka,,20220612,580,Sedin V.,R,,UKR,,,,11-6 7-11 11-6 11-9 ,5,RR,Tupyk M.,R,,UKR,,,,1
+Setka,,20220612,581,Kostiuk B.,R,,UKR,,,,3-11 5-11 11-8 12-10 17-15,5,RR,Samofal Y.,L,,UKR,,,,1
+Setka,,20220612,582,Bihun R.,L,,UKR,,,,5-11 6-11 8-11  ,5,RR,Tkachenko K.,R,,UKR,,,,0
+Setka,,20220612,583,Mishchenko O.,R,,UKR,,,,8-11 8-11 11-3 9-11 ,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,584,Fedoryshyn I.,R,,UKR,,,,11-2 5-11 13-11 11-5 ,5,RR,Prilepa D.,R,,UKR,,,,1
+Setka,,20220612,585,Hel V.,R,,UKR,,,,11-9 11-9 5-11 11-1 ,5,RR,Bahrii O.,L,,UKR,,,,1
+Setka,,20220612,586,Baday M.,R,,UKR,,,,11-7 11-8 19-17  ,5,RR,Tupyk M.,L,,UKR,,,,1
+Setka,,20220612,587,Gatsenko I.,R,,UKR,,,,11-6 11-7 5-11 11-1 ,5,RR,Pakhomovskyi V.,R,,UKR,,,,1
+Setka,,20220612,588,Melchenko A.,R,,UKR,,,,9-11 8-11 11-8 11-8 8-11,5,RR,Kovpak E.,R,,UKR,,,,0
+Setka,,20220612,589,Sivovol S.,R,,UKR,,,,11-6 9-11 9-11 14-12 5-11,5,RR,Cucerovschii S.,R,,UKR,,,,0
+Setka,,20220612,590,Kravnytskyi M.,R,,UKR,,,,11-8 11-9 8-11 11-9 ,5,RR,Gil O.,R,,UKR,,,,1
+Setka,,20220612,591,Poturidis G.,R,,UKR,,,,4-11 6-11 14-16  ,5,RR,Andrievskiy V.,R,,UKR,,,,0
+Setka,,20220612,592,Sedin V.,R,,UKR,,,,11-9 5-11 15-13 9-11 11-6,5,RR,Fedoryshyn I.,R,,UKR,,,,1
+Setka,,20220612,593,Lavrynenko P.,R,,UKR,,,,8-11 11-7 13-11 11-8 ,5,RR,Strutynskyi O.,R,,UKR,,,,1
+Setka,,20220612,594,Hruby J.,R,,UKR,,,,3-11 9-11 11-13  ,5,RR,Bosak D.,R,,UKR,,,,0
+Setka,,20220612,595,Virlan A.,R,,UKR,,,,11-9 11-9 13-11  ,5,RR,Ungurean M.,R,,UKR,,,,1
+Setka,,20220612,596,Bihun R.,R,,UKR,,,,11-9 13-11 2-11 8-11 6-11,5,RR,Bahrii O.,R,,UKR,,,,0
+Setka,,20220612,597,Kurischenko Y.,R,,UKR,,,,10-12 11-13 11-8 11-2 8-11,5,RR,Shyndel I.,R,,UKR,,,,0
+Setka,,20220612,598,Baday M.,R,,UKR,,,,12-10 12-10 8-11 13-11 ,5,RR,Prilepa D.,R,,UKR,,,,1
+Setka,,20220612,599,Chumak M.,R,,UKR,,,,11-8 11-9 11-4  ,5,RR,Khomutovskyi Y.,R,,UKR,,,,1
+Setka,,20220612,600,Vietrov V.,R,,UKR,,,,3-11 12-10 11-13 3-11 ,5,RR,Nazarov A.,R,,UKR,,,,0
+Setka,,20220612,601,Vitek M.,R,,UKR,,,,11-8 6-11 11-7 7-11 8-11,5,RR,Marasek D.,R,,UKR,,,,0
+Setka,,20220612,602,Dobrzhinsky O.,R,,UKR,,,,7-11 11-7 5-11 11-6 9-11,5,RR,Shkepu S.,R,,UKR,,,,0
+Setka,,20220612,603,Klucar T.,R,,UKR,,,,8-11 11-7 10-12 10-12 ,5,RR,Porhajas P.,R,,UKR,,,,0
+Setka,,20220612,604,Gil O.,R,,UKR,,,,6-11 10-12 8-11  ,5,RR,Tkachenko K.,R,,UKR,,,,0
+Setka,,20220612,605,Kovalchuk O.,R,,UKR,,,,11-5 11-7 11-3  ,5,RR,Bondarenko S.,R,,UKR,,,,1
+Setka,,20220612,606,Fedoryshyn I.,R,,UKR,,,,4-11 6-11 8-11  ,5,RR,Tupyk M.,R,,UKR,,,,0
+Setka,,20220612,607,Gatsenko I.,R,,UKR,,,,11-7 7-11 9-11 9-11 ,5,RR,Andrievskiy V.,R,,UKR,,,,0
+Setka,,20220612,608,Melchenko A.,R,,UKR,,,,11-8 15-13 7-11 13-11 ,5,RR,Strutynskyi O.,R,,UKR,,,,1
+Setka,,20220612,609,Abraham P.,R,,UKR,,,,11-7 11-6 11-4  ,5,RR,Lukes T.,R,,UKR,,,,1
+Setka,,20220612,610,Culak J.,R,,UKR,,,,7-11 11-9 6-11 9-11 ,5,RR,Janco D.,R,,UKR,,,,0
+Setka,,20220612,611,Sivovol S.,R,,UKR,,,,8-11 12-10 11-5 11-9 ,5,RR,Ungurean M.,R,,UKR,,,,1
+Setka,,20220612,612,Hel V.,L,,UKR,,,,7-11 10-12 11-5 6-11 ,5,RR,Kravnytskyi M.,R,,UKR,,,,0
+Setka,,20220612,613,Lykhytskyi O.,R,,UKR,,,,7-11 11-5 7-11 12-10 5-11,5,RR,Chelpanov S.,R,,UKR,,,,0
+Setka,,20220612,614,Khomutovskyi Y.,R,,UKR,,,,11-6 11-6 11-5  ,5,RR,Pakhomovskyi V.,R,,UKR,,,,1
+Setka,,20220612,615,Sedin V.,R,,UKR,,,,11-6 5-11 11-7 12-10 ,5,RR,Prilepa D.,R,,UKR,,,,1
+Setka,,20220612,616,Nazarov A.,R,,UKR,,,,4-11 14-16 11-9 7-11 ,5,RR,Kovpak E.,R,,UKR,,,,0
+Setka,,20220612,617,Vitek M.,R,,UKR,,,,15-13 11-8 7-11 11-9 ,5,RR,Lukes T.,R,,UKR,,,,1
+Setka,,20220612,618,Hruby J.,R,,UKR,,,,6-11 11-7 8-11 11-8 11-3,5,RR,Porhajas P.,R,,UKR,,,,1
+Setka,,20220612,619,Shkepu S.,R,,UKR,,,,12-14 16-14 11-3 11-5 ,5,RR,Cucerovschii S.,L,,UKR,,,,1
+Setka,,20220612,620,Bihun R.,R,,UKR,,,,11-6 11-8 8-11 11-5 ,5,RR,Gil O.,R,,UKR,,,,1
+Setka,,20220612,621,Kurischenko Y.,R,,UKR,,,,11-8 2-11 10-12 11-5 11-7,5,RR,Bondarenko S.,R,,UKR,,,,1
+Setka,,20220612,622,Baday M.,R,,UKR,,,,9-11 7-11 10-12  ,5,RR,Fedoryshyn I.,R,,UKR,,,,0
+Setka,,20220612,623,Poturidis G.,R,,UKR,,,,6-11 9-11 8-11  ,5,RR,Chumak M.,R,,UKR,,,,0
+Setka,,20220612,624,Lavrynenko P.,R,,UKR,,,,12-10 11-9 9-11 12-10 ,5,RR,Vietrov V.,R,,UKR,,,,1
+Setka,,20220612,625,Abraham P.,R,,UKR,,,,14-12 1-11 4-11 8-11 ,5,RR,Marasek D.,R,,UKR,,,,0
+Setka,,20220612,626,Janco D.,R,,UKR,,,,10-12 2-11 9-11  ,5,RR,Bosak D.,R,,UKR,,,,0
+Setka,,20220612,627,Virlan A.,R,,UKR,,,,7-11 11-6 11-8 11-8 ,5,RR,Dobrzhinsky O.,R,,UKR,,,,1
+Setka,,20220612,628,Chelpanov S.,R,,UKR,,,,11-7 11-7 11-8  ,5,RR,Shyndel I.,R,,UKR,,,,1
+Setka,,20220612,629,Kravnytskyi M.,R,,UKR,,,,9-11 12-14 6-11  ,5,RR,Bahrii O.,R,,UKR,,,,0
+Setka,,20220612,630,Gatsenko I.,R,,UKR,,,,11-7 11-9 11-6  ,5,RR,Khomutovskyi Y.,R,,UKR,,,,1
+Setka,,20220612,631,Prilepa D.,R,,UKR,,,,11-6 6-11 11-6 11-8 ,5,RR,Tupyk M.,R,,UKR,,,,1
+Setka,,20220612,632,Melchenko A.,R,,UKR,,,,4-11 7-11 4-11  ,5,RR,Nazarov A.,R,,UKR,,,,0
+Setka,,20220612,633,Vitek M.,R,,UKR,,,,11-9 11-13 3-11 9-11 ,5,RR,Abraham P.,R,,UKR,,,,0
+Setka,,20220612,634,Klucar T.,R,,UKR,,,,7-11 7-11 7-11  ,5,RR,Culak J.,R,,UKR,,,,0
+Setka,,20220612,635,Hel V.,R,,UKR,,,,9-11 9-11 6-11  ,5,RR,Tkachenko K.,R,,UKR,,,,0
+Setka,,20220612,636,Kovalchuk O.,R,,UKR,,,,11-7 11-9 7-11 11-8 ,5,RR,Lykhytskyi O.,R,,UKR,,,,1
+Setka,,20220612,637,Sivovol S.,R,,UKR,,,,5-11 11-7 11-9 10-12 7-11,5,RR,Shkepu S.,R,,UKR,,,,0
+Setka,,20220612,638,Baday M.,L,,UKR,,,,11-6 11-8 11-6  ,5,RR,Sedin V.,R,,UKR,,,,1
+Setka,,20220612,639,Chumak M.,L,,UKR,,,,11-2 9-11 12-10 8-11 11-7,5,RR,Andrievskiy V.,R,,UKR,,,,1
+Setka,,20220612,640,Vietrov V.,R,,UKR,,,,11-7 11-3 11-13 11-5 ,5,RR,Strutynskyi O.,R,,UKR,,,,1
+Setka,,20220612,641,Lukes T.,R,,UKR,,,,4-11 11-5 5-11 11-8 5-11,5,RR,Marasek D.,R,,UKR,,,,0
+Setka,,20220612,642,Dobrzhinsky O.,R,,UKR,,,,11-3 9-11 11-8 10-12 6-11,5,RR,Ungurean M.,R,,UKR,,,,0
+Setka,,20220612,643,Hruby J.,R,,UKR,,,,11-6 4-11 11-9 10-12 11-8,5,RR,Janco D.,R,,UKR,,,,1
+Setka,,20220612,644,Bihun R.,R,,UKR,,,,11-13 4-11 7-11  ,5,RR,Kravnytskyi M.,R,,UKR,,,,0
+Setka,,20220612,645,Kurischenko Y.,R,,UKR,,,,4-11 10-12 13-11 11-6 7-11,5,RR,Chelpanov S.,R,,UKR,,,,0
+Setka,,20220612,646,Poturidis G.,R,,UKR,,,,12-10 11-5 12-14 6-11 9-11,5,RR,Pakhomovskyi V.,R,,UKR,,,,0
+Setka,,20220612,647,Prilepa D.,R,,UKR,,,,11-9 10-12 11-8 8-11 11-7,5,RR,Fedoryshyn I.,R,,UKR,,,,1
+Setka,,20220612,648,Lavrynenko P.,R,,UKR,,,,6-11 11-9 11-6 9-11 11-7,5,RR,Kovpak E.,R,,UKR,,,,1
+Setka,,20220612,649,Culak J.,R,,UKR,,,,11-8 8-11 11-7 4-11 9-11,5,RR,Porhajas P.,L,,UKR,,,,0
+Setka,,20220612,650,Lukes T.,R,,UKR,,,,6-11 8-11 4-11  ,5,RR,Vitek M.,R,,UKR,,,,0
+Setka,,20220612,651,Virlan A.,R,,UKR,,,,11-7 4-11 11-8 12-14 9-11,5,RR,Cucerovschii S.,R,,UKR,,,,0
+Setka,,20220612,652,Hel V.,R,,UKR,,,,11-6 7-11 5-11 6-11 ,5,RR,Gil O.,R,,UKR,,,,0
+Setka,,20220612,653,Lykhytskyi O.,R,,UKR,,,,11-8 10-12 4-11 11-2 11-9,5,RR,Bondarenko S.,R,,UKR,,,,1
+Setka,,20220612,654,Gatsenko I.,R,,UKR,,,,9-11 6-11 6-11  ,5,RR,Chumak M.,R,,UKR,,,,0
+Setka,,20220612,655,Sedin V.,R,,UKR,,,,5-11 9-11 11-7 7-11 ,5,RR,Baday M.,R,,UKR,,,,0
+Setka,,20220612,656,Melchenko A.,R,,UKR,,,,6-11 7-11 11-9 6-11 ,5,RR,Vietrov V.,R,,UKR,,,,0
+Setka,,20220612,657,Klucar T.,R,,UKR,,,,8-11 9-11 11-7 10-12 ,5,RR,Bosak D.,R,,UKR,,,,0
+Setka,,20220612,658,Marasek D.,R,,UKR,,,,9-11 8-11 12-14  ,5,RR,Abraham P.,R,,UKR,,,,0
+Setka,,20220612,659,Sivovol S.,R,,UKR,,,,8-11 11-4 11-6 7-11 6-11,5,RR,Dobrzhinsky O.,R,,UKR,,,,0
+Setka,,20220612,660,Bahrii O.,R,,UKR,,,,4-11 11-6 8-11 11-6 11-9,5,RR,Tkachenko K.,R,,UKR,,,,1
+Setka,,20220612,661,Kovalchuk O.,R,,UKR,,,,3-11 9-11 6-11  ,5,RR,Shyndel I.,R,,UKR,,,,0
+Setka,,20220612,662,Poturidis G.,R,,UKR,,,,4-11 4-11 5-11  ,5,RR,Khomutovskyi Y.,R,,UKR,,,,0
+Setka,,20220612,663,Ziakun V.,R,,UKR,,,,6-11 6-11 10-12  ,5,RR,Lyman O.,R,,UKR,,,,0
+Setka,,20220612,664,Lavrynenko P.,R,,UKR,,,,11-6 11-6 6-11 11-8 ,5,RR,Nazarov A.,R,,UKR,,,,1
+Setka,,20220612,665,Prokopenko D.,R,,UKR,,,,9-11 11-7 6-11 11-7 7-11,5,RR,Kolesnykov V.,R,,UKR,,,,0
+Setka,,20220612,666,Hruby J.,R,,UKR,,,,6-11 8-11 11-13  ,5,RR,Culak J.,R,,UKR,,,,0
+Setka,,20220612,667,Virlan A.,R,,UKR,,,,11-7 7-11 7-11 9-11 ,5,RR,Shkepu S.,R,,UKR,,,,0
+Setka,,20220612,668,Bihun R.,R,,UKR,,,,6-11 6-11 11-13  ,5,RR,Hel V.,R,,UKR,,,,0
+Setka,,20220612,669,Kurischenko Y.,R,,UKR,,,,11-4 10-12 5-11 11-5 9-11,5,RR,Lykhytskyi O.,R,,UKR,,,,0
+Setka,,20220612,670,Andrievskiy V.,R,,UKR,,,,7-11 11-3 11-9 11-5 ,5,RR,Pakhomovskyi V.,R,,UKR,,,,1
+Setka,,20220612,671,Romanenko V.,R,,UKR,,,,11-13 8-11 6-11  ,5,RR,Boklah R.,R,,UKR,,,,0
+Setka,,20220612,672,Lobas V.,L,,UKR,,,,11-13 11-2 11-5 6-11 11-8,5,RR,Volynets O.,R,,UKR,,,,1
+Setka,,20220612,673,Strutynskyi O.,R,,UKR,,,,6-11 11-8 7-11 8-11 ,5,RR,Kovpak E.,R,,UKR,,,,0
+Setka,,20220612,674,Kolbasenko O.,R,,UKR,,,,6-11 11-8 11-5 11-8 ,5,RR,Mrykh M.,R,,UKR,,,,1
+Setka,,20220612,675,Klucar T.,R,,UKR,,,,6-11 11-9 14-12 11-7 ,5,RR,Janco D.,L,,UKR,,,,1
+Setka,,20220612,676,Kovalchuk O.,R,,UKR,,,,4-11 6-11 10-12  ,5,RR,Chelpanov S.,L,,UKR,,,,0
+Setka,,20220612,677,Kravnytskyi M.,R,,UKR,,,,11-8 11-5 11-8  ,5,RR,Tkachenko K.,R,,UKR,,,,1
+Setka,,20220612,678,Gatsenko I.,R,,UKR,,,,9-11 11-5 11-8 8-11 11-5,5,RR,Poturidis G.,R,,UKR,,,,1
+Setka,,20220612,679,Torhachov I.,R,,UKR,,,,4-11 9-11 3-11  ,5,RR,Vasylets A.,R,,UKR,,,,0
+Setka,,20220612,680,Martyniuk A.,R,,UKR,,,,11-7 12-10 11-7  ,5,RR,Kolivay O.,R,,UKR,,,,1
+Setka,,20220612,681,Melchenko A.,R,,UKR,,,,12-10 12-10 11-8  ,5,RR,Lavrynenko P.,R,,UKR,,,,1
+Setka,,20220612,682,Ungurean M.,R,,UKR,,,,7-11 11-7 6-11 11-6 11-9,5,RR,Cucerovschii S.,R,,UKR,,,,1
+Setka,,20220612,683,Skripnik S.,R,,UKR,,,,11-8 4-11 11-7 8-11 9-11,5,RR,Sklyarenko A.,R,,UKR,,,,0
+Setka,,20220612,684,Porhajas P.,R,,UKR,,,,5-11 2-11 9-11  ,5,RR,Bosak D.,R,,UKR,,,,0
+Setka,,20220612,685,Sivovol S.,R,,UKR,,,,5-11 5-11 5-11  ,5,RR,Virlan A.,R,,UKR,,,,0
+Setka,,20220612,686,Bondarenko S.,R,,UKR,,,,8-11 8-11 8-11  ,5,RR,Shyndel I.,R,,UKR,,,,0
+Setka,,20220612,687,Gil O.,R,,UKR,,,,8-11 12-10 11-9 12-10 ,5,RR,Bahrii O.,R,,UKR,,,,1
+Setka,,20220612,688,Chumak M.,R,,UKR,,,,6-11 11-8 11-7 6-11 15-17,5,RR,Pakhomovskyi V.,R,,UKR,,,,0
+Setka,,20220612,689,Ziakun V.,R,,UKR,,,,11-6 11-8 11-8  ,5,RR,Boklah R.,R,,UKR,,,,1
+Setka,,20220612,690,Prokopenko D.,R,,UKR,,,,10-12 6-11 11-8 8-11 ,5,RR,Volynets O.,R,,UKR,,,,0
+Setka,,20220612,691,Vietrov V.,R,,UKR,,,,4-11 11-6 11-8 11-7 ,5,RR,Kovpak E.,R,,UKR,,,,1
+Setka,,20220612,692,Merzlikin V.,R,,UKR,,,,11-13 11-8 11-9 6-11 11-8,5,RR,Mishchenko V.,R,,UKR,,,,1
+Setka,,20220612,693,Dobrzhinsky O.,R,,UKR,,,,11-6 9-11 11-4 12-10 ,5,RR,Cucerovschii S.,R,,UKR,,,,1
+Setka,,20220612,694,Hruby J.,R,,UKR,,,,11-6 11-5 8-11 9-11 11-7,5,RR,Klucar T.,R,,UKR,,,,1
+Setka,,20220612,695,Syniavskyi I.,R,,UKR,,,,6-11 9-11 7-11  ,5,RR,Mykhailovsky K.,R,,UKR,,,,0
+Setka,,20220612,696,Hot S.,R,,UKR,,,,11-7 7-11 4-11 11-8 11-8,5,RR,Sapuzhak O.,R,,UKR,,,,1
+Setka,,20220612,697,Kurischenko Y.,R,,UKR,,,,12-10 11-6 13-11  ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220612,698,Vasylets A.,R,,UKR,,,,11-6 11-9 11-9  ,5,RR,Lyman O.,R,,UKR,,,,1
+Setka,,20220612,699,Khomutovskyi Y.,R,,UKR,,,,11-8 11-9 11-7  ,5,RR,Andrievskiy V.,R,,UKR,,,,1
+Setka,,20220612,700,Kolivay O.,R,,UKR,,,,11-7 10-12 11-7 11-6 ,5,RR,Kolesnykov V.,R,,UKR,,,,1
+Setka,,20220612,701,Nazarov A.,R,,UKR,,,,17-19 11-8 9-11 11-7 10-12,5,RR,Strutynskyi O.,R,,UKR,,,,0
+Setka,,20220612,702,Kolbasenko O.,L,,UKR,,,,11-3 11-4 11-13 21-19 ,5,RR,Sklyarenko A.,R,,UKR,,,,1
+Setka,,20220612,703,Kodola V.,R,,UKR,,,,11-9 7-11 13-11 11-13 11-5,5,RR,Potapov M.,R,,UKR,,,,1
+Setka,,20220612,704,Culak J.,R,,UKR,,,,18-16 12-14 12-10 3-11 11-9,5,RR,Bosak D.,R,,UKR,,,,1
+Setka,,20220612,705,Lykhytskyi O.,R,,UKR,,,,11-4 11-4 11-9  ,5,RR,Shyndel I.,R,,UKR,,,,1
+Setka,,20220612,706,Moriak A.,R,,UKR,,,,6-11 11-6 9-11 9-11 ,5,RR,Shyshkin M.,R,,UKR,,,,0
+Setka,,20220612,707,Shkepu S.,R,,UKR,,,,3-11 11-7 6-11 14-12 11-5,5,RR,Ungurean M.,R,,UKR,,,,1
+Setka,,20220612,708,Romanenko V.,R,,UKR,,,,13-15 11-8 8-11 11-8 1-11,5,RR,Torhachov I.,R,,UKR,,,,0
+Setka,,20220612,709,Lazuryk D.,R,,UKR,,,,11-9 6-11 11-5 11-13 8-11,5,RR,Levyn S.,L,,UKR,,,,0
+Setka,,20220612,710,Lobas V.,R,,UKR,,,,13-11 14-12 6-11 11-7 ,5,RR,Martyniuk A.,R,,UKR,,,,1
+Setka,,20220612,711,Mishchenko V.,R,,UKR,,,,10-12 14-12 11-5 8-11 11-7,5,RR,Mrykh M.,R,,UKR,,,,1
+Setka,,20220612,712,Janco D.,R,,UKR,,,,10-12 11-6 9-11 11-8 8-11,5,RR,Porhajas P.,R,,UKR,,,,0
+Setka,,20220612,713,Chelpanov S.,R,,UKR,,,,12-10 11-7 12-10  ,5,RR,Bondarenko S.,R,,UKR,,,,1
+Setka,,20220612,714,Kovalchuk O.,R,,UKR,,,,12-10 11-4 11-9  ,5,RR,Mikhailovskiy Y.,R,,UKR,,,,1
+Setka,,20220612,715,Romanenko I.,R,,UKR,,,,11-4 4-11 12-10 2-11 6-11,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220612,716,Shpak A.,R,,UKR,,,,11-6 11-1 11-4  ,5,RR,Loboda M.,R,,UKR,,,,1
+Setka,,20220612,717,Kolesnik Y.,R,,UKR,,,,11-4 8-11 6-11 8-11 ,5,RR,Hnoievoi R.,R,,UKR,,,,0
+Setka,,20220612,718,Prokopenko D.,R,,UKR,,,,11-3 9-11 11-13 11-7 11-6,5,RR,Kolivay O.,R,,UKR,,,,1
+Setka,,20220612,719,Ziakun V.,R,,UKR,,,,6-11 12-14 4-11  ,5,RR,Vasylets A.,R,,UKR,,,,0
+Setka,,20220612,720,Skripnik S.,R,,UKR,,,,11-6 6-11 11-5 11-9 ,5,RR,Merzlikin V.,R,,UKR,,,,1
+Setka,,20220612,721,Lipkan D.,R,,UKR,,,,11-5 4-11 6-11 8-11 ,5,RR,Dubrovin V.,R,,UKR,,,,0
+Setka,,20220612,722,Syniavskyi I.,R,,UKR,,,,13-15 6-11 8-11  ,5,RR,Potapov M.,R,,UKR,,,,0
+Setka,,20220612,723,Hot S.,R,,UKR,,,,11-7 12-10 11-2  ,5,RR,Shyshkin M.,R,,UKR,,,,1
+Setka,,20220612,724,Mishchenko O.,R,,UKR,,,,9-11 10-12 10-12  ,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,725,Torhachov I.,R,,UKR,,,,11-9 8-11 11-3 11-8 ,5,RR,Boklah R.,R,,UKR,,,,1
+Setka,,20220612,726,Martyniuk A.,R,,UKR,,,,9-11 8-11 11-9 11-9 11-8,5,RR,Volynets O.,R,,UKR,,,,1
+Setka,,20220612,727,Rehotun D.,R,,UKR,,,,10-12 11-4 5-11 10-12 ,5,RR,Gomilko O.,R,,UKR,,,,0
+Setka,,20220612,728,Kolbasenko O.,R,,UKR,,,,13-15 11-9 11-8 2-11 8-11,5,RR,Mishchenko V.,R,,UKR,,,,0
+Setka,,20220612,729,Loboda M.,R,,UKR,,,,4-11 12-14 8-11  ,5,RR,Mykhailovsky K.,R,,UKR,,,,0
+Setka,,20220612,730,Ni I.,R,,UKR,,,,11-4 11-8 11-6  ,5,RR,Sofroni D.,R,,UKR,,,,1
+Setka,,20220612,731,Hrymovskyi O.,R,,UKR,,,,11-13 9-11 2-11  ,5,RR,Dukhovenko O.,R,,UKR,,,,0
+Setka,,20220612,732,Mikhailovskiy Y.,R,,UKR,,,,5-11 10-12 11-7 7-11 ,5,RR,Sapuzhak O.,R,,UKR,,,,0
+Setka,,20220612,733,Romanenko V.,L,,UKR,,,,5-11 10-12 7-11  ,5,RR,Lyman O.,R,,UKR,,,,0
+Setka,,20220612,734,Lazuryk D.,R,,UKR,,,,14-12 9-11 11-13 11-3 8-11,5,RR,Hnoievoi R.,R,,UKR,,,,0
+Setka,,20220612,735,Lobas V.,R,,UKR,,,,11-4 11-7 11-4  ,5,RR,Kolesnykov V.,R,,UKR,,,,1
+Setka,,20220612,736,Merzlikin V.,R,,UKR,,,,11-5 12-14 5-11 10-12 ,5,RR,Sklyarenko A.,R,,UKR,,,,0
+Setka,,20220612,737,Cuba M.,R,,UKR,,,,11-5 11-9 11-9  ,5,RR,Merkl R.,R,,UKR,,,,1
+Setka,,20220612,738,Kodola V.,R,,UKR,,,,8-11 12-10 6-11 8-11 ,5,RR,Shpak A.,R,,UKR,,,,0
+Setka,,20220612,739,Romanenko I.,R,,UKR,,,,6-11 6-11 11-13  ,5,RR,Dubrovin V.,L,,UKR,,,,0
+Setka,,20220612,740,Chepurnyi A.,R,,UKR,,,,15-13 8-11 6-11 8-11 ,5,RR,Tkachov S.,R,,UKR,,,,0
+Setka,,20220612,741,Moriak A.,R,,UKR,,,,11-8 8-11 5-11 9-11 ,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220612,742,Ziakun V.,R,,UKR,,,,11-9 9-11 11-7 11-9 ,5,RR,Torhachov I.,R,,UKR,,,,1
+Setka,,20220612,743,Gomilko O.,R,,UKR,,,,5-11 10-12 12-10 11-9 11-8,5,RR,Levyn S.,R,,UKR,,,,1
+Setka,,20220612,744,Prokopenko D.,R,,UKR,,,,11-8 6-11 5-11 7-11 ,5,RR,Martyniuk A.,R,,UKR,,,,0
+Setka,,20220612,745,Skripnik S.,R,,UKR,,,,11-4 8-11 11-8 3-11 12-10,5,RR,Mrykh M.,R,,UKR,,,,1
+Setka,,20220612,746,Provaznik L.,R,,UKR,,,,11-6 11-9 12-10  ,5,RR,Coubal V.,R,,UKR,,,,1
+Setka,,20220612,747,Sofroni D.,R,,UKR,,,,11-13 11-8 5-11 10-12 ,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220612,748,Syniavskyi I.,R,,UKR,,,,4-11 15-13 2-11 6-11 ,5,RR,Loboda M.,R,,UKR,,,,0
+Setka,,20220612,749,Hot S.,R,,UKR,,,,8-11 7-11 11-5 10-12 ,5,RR,Mikhailovskiy Y.,R,,UKR,,,,0
+Setka,,20220612,750,Mishchenko O.,R,,UKR,,,,4-11 8-11 4-11  ,5,RR,Dukhovenko O.,R,,UKR,,,,0
+Setka,,20220612,751,Romanenko V.,R,,UKR,,,,1-11 11-8 6-11 6-11 ,5,RR,Vasylets A.,R,,UKR,,,,0
+Setka,,20220612,752,Lobas V.,R,,UKR,,,,11-7 8-11 12-10 6-11 11-8,5,RR,Kolivay O.,R,,UKR,,,,1
+Setka,,20220612,753,Kolbasenko O.,R,,UKR,,,,3-11 11-7 11-5 11-8 ,5,RR,Merzlikin V.,R,,UKR,,,,1
+Setka,,20220612,754,Kolesnik Y.,R,,UKR,,,,10-12 12-10 11-7 13-11 ,5,RR,Rehotun D.,R,,UKR,,,,1
+Setka,,20220612,755,Cuba M.,R,,UKR,,,,7-11 11-9 9-11 11-3 7-11,5,RR,Coubal V.,R,,UKR,,,,0
+Setka,,20220612,756,Lipkan D.,R,,UKR,,,,9-11 2-11 3-11  ,5,RR,Ni I.,R,,UKR,,,,0
+Setka,,20220612,757,Shpak A.,R,,UKR,,,,13-11 11-6 4-11 7-11 11-6,5,RR,Potapov M.,R,,UKR,,,,1
+Setka,,20220612,758,Kovalchuk O.,R,,UKR,,,,7-11 11-1 5-11 11-6 7-11,5,RR,Shyshkin M.,R,,UKR,,,,0
+Setka,,20220612,759,Tkachov S.,R,,UKR,,,,6-11 9-11 13-11 7-11 ,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,760,Boklah R.,R,,UKR,,,,5-11 9-11 11-9 5-11 ,5,RR,Lyman O.,R,,UKR,,,,0
+Setka,,20220612,761,Lazuryk D.,R,,UKR,,,,10-12 9-11 11-8 11-4 12-10,5,RR,Gomilko O.,R,,UKR,,,,1
+Setka,,20220612,762,Volynets O.,R,,UKR,,,,6-11 12-10 4-11 7-11 ,5,RR,Kolesnykov V.,R,,UKR,,,,0
+Setka,,20220612,763,Skripnik S.,L,,UKR,,,,13-11 11-9 5-11 8-11 11-4,5,RR,Mishchenko V.,R,,UKR,,,,1
+Setka,,20220612,764,Provaznik L.,R,,UKR,,,,9-11 11-1 11-6 11-8 ,5,RR,Merkl R.,R,,UKR,,,,1
+Setka,,20220612,765,Kodola V.,R,,UKR,,,,7-11 7-11 11-9 7-11 ,5,RR,Mykhailovsky K.,R,,UKR,,,,0
+Setka,,20220612,766,Romanenko I.,R,,UKR,,,,8-11 11-9 6-11 7-11 ,5,RR,Sofroni D.,R,,UKR,,,,0
+Setka,,20220612,767,Hrymovskyi O.,R,,UKR,,,,11-8 11-6 11-7  ,5,RR,Chepurnyi A.,R,,UKR,,,,1
+Setka,,20220612,768,Moriak A.,R,,UKR,,,,8-11 10-12 11-7 12-14 ,5,RR,Sapuzhak O.,R,,UKR,,,,0
+Setka,,20220612,769,Ziakun V.,R,,UKR,,,,11-5 7-11 11-6 11-6 ,5,RR,Romanenko V.,R,,UKR,,,,1
+Setka,,20220612,770,Prokopenko D.,R,,UKR,,,,11-5 11-5 11-6  ,5,RR,Lobas V.,L,,UKR,,,,1
+Setka,,20220612,771,Rehotun D.,R,,UKR,,,,10-12 8-11 6-11  ,5,RR,Hnoievoi R.,R,,UKR,,,,0
+Setka,,20220612,772,Sklyarenko A.,R,,UKR,,,,8-11 10-12 11-6 9-11 ,5,RR,Mrykh M.,R,,UKR,,,,0
+Setka,,20220612,773,Cuba M.,R,,UKR,,,,11-3 5-11 9-11 3-11 ,5,RR,Provaznik L.,R,,UKR,,,,0
+Setka,,20220612,774,Ni I.,R,,UKR,,,,9-11 8-11 11-9 8-11 ,5,RR,Dubrovin V.,R,,UKR,,,,0
+Setka,,20220612,775,Syniavskyi I.,R,,UKR,,,,11-7 3-11 6-11 3-11 ,5,RR,Shpak A.,R,,UKR,,,,0
+Setka,,20220612,776,Hot S.,R,,UKR,,,,10-12 5-11 9-11  ,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220612,777,Mishchenko O.,R,,UKR,,,,3-11 11-4 11-9 3-11 9-11,5,RR,Tkachov S.,R,,UKR,,,,0
+Setka,,20220612,778,Torhachov I.,R,,UKR,,,,12-14 11-7 11-7 11-7 ,5,RR,Lyman O.,R,,UKR,,,,1
+Setka,,20220612,779,Kolesnik Y.,R,,UKR,,,,11-6 10-12 11-1 11-5 ,5,RR,Levyn S.,R,,UKR,,,,1
+Setka,,20220612,780,Martyniuk A.,R,,UKR,,,,11-6 4-11 12-10 8-11 10-12,5,RR,Kolesnykov V.,R,,UKR,,,,0
+Setka,,20220612,781,Kolbasenko O.,R,,UKR,,,,11-8 18-16 9-11 11-6 ,5,RR,Skripnik S.,R,,UKR,,,,1
+Setka,,20220612,782,Coubal V.,R,,UKR,,,,12-10 11-9 7-11 7-11 11-8,5,RR,Merkl R.,R,,UKR,,,,1
+Setka,,20220612,783,Kodola V.,R,,UKR,,,,11-5 2-11 11-6 11-0 ,5,RR,Loboda M.,R,,UKR,,,,1
+Setka,,20220612,784,Lipkan D.,R,,UKR,,,,5-11 8-11 8-11  ,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220612,785,Chepurnyi A.,R,,UKR,,,,9-11 3-11 6-11  ,5,RR,Dukhovenko O.,R,,UKR,,,,0
+Setka,,20220612,786,Moriak A.,R,,UKR,,,,11-7 7-11 5-11 13-11 8-11,5,RR,Mikhailovskiy Y.,R,,UKR,,,,0
+Setka,,20220612,787,Vasylets A.,R,,UKR,,,,14-12 8-11 11-5 11-1 ,5,RR,Boklah R.,R,,UKR,,,,1
+Setka,,20220612,788,Kolivay O.,R,,UKR,,,,11-4 12-10 4-11 11-6 ,5,RR,Volynets O.,R,,UKR,,,,1
+Setka,,20220612,789,Lazuryk D.,L,,UKR,,,,11-2 11-3 7-11 10-12 11-6,5,RR,Rehotun D.,R,,UKR,,,,1
+Setka,,20220612,790,Merzlikin V.,L,,UKR,,,,12-14 13-11 11-7 11-9 ,5,RR,Mrykh M.,R,,UKR,,,,1
+Setka,,20220612,791,Merkl R.,R,,UKR,,,,7-11 11-4 11-9 11-5 ,5,RR,Cuba M.,R,,UKR,,,,1
+Setka,,20220612,792,Potapov M.,R,,UKR,,,,11-13 13-11 9-11 11-4 11-1,5,RR,Mykhailovsky K.,R,,UKR,,,,1
+Setka,,20220612,793,Romanenko I.,R,,UKR,,,,3-11 8-11 8-11  ,5,RR,Ni I.,R,,UKR,,,,0
+Setka,,20220612,794,Hrymovskyi O.,R,,UKR,,,,11-7 12-10 11-9  ,5,RR,Babenko P.,R,,UKR,,,,1
+Setka,,20220612,795,Shyshkin M.,R,,UKR,,,,2-11 6-11 4-11  ,5,RR,Sapuzhak O.,R,,UKR,,,,0
+Setka,,20220612,796,Kolesnik Y.,R,,UKR,,,,11-9 5-11 9-11 2-11 ,5,RR,Gomilko O.,R,,UKR,,,,0
+Setka,,20220612,797,Mishchenko V.,R,,UKR,,,,11-5 8-11 5-11 11-6 6-11,5,RR,Sklyarenko A.,R,,UKR,,,,0
+Setka,,20220612,798,Coubal V.,R,,UKR,,,,11-5 11-9 4-11 11-8 ,5,RR,Provaznik L.,R,,UKR,,,,1
+Setka,,20220612,799,Lipkan D.,R,,UKR,,,,6-11 11-6 11-6 5-11 11-9,5,RR,Sofroni D.,R,,UKR,,,,1
+Setka,,20220612,800,Hot S.,R,,UKR,,,,12-14 7-11 4-11  ,5,RR,Moriak A.,L,,UKR,,,,0
+Setka,,20220612,801,Mishchenko O.,R,,UKR,,,,11-4 5-11 10-12 9-11 ,5,RR,Chepurnyi A.,R,,UKR,,,,0
+Setka,,20220612,802,Syniavskyi I.,R,,UKR,,,,9-11 8-11 11-5 8-11 ,5,RR,Kodola V.,R,,UKR,,,,0
+Setka,,20220612,803,Hnoievoi R.,R,,UKR,,,,11-13 5-11 8-11  ,5,RR,Levyn S.,R,,UKR,,,,0
+Setka,,20220612,804,Stehlik M.,R,,UKR,,,,7-11 9-11 9-11  ,5,RR,Stoces L.,R,,UKR,,,,0
+Setka,,20220612,805,Shpak A.,R,,UKR,,,,5-11 13-15 11-8 5-11 ,5,RR,Mykhailovsky K.,R,,UKR,,,,0
+Setka,,20220612,806,Dubrovin V.,R,,UKR,,,,5-11 10-12 4-11  ,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220612,807,Hrymovskyi O.,R,,UKR,,,,11-7 5-11 14-12 11-8 ,5,RR,Tkachov S.,R,,UKR,,,,1
+Setka,,20220612,808,Kovalchuk O.,R,,UKR,,,,10-12 11-9 11-9 10-12 4-11,5,RR,Sapuzhak O.,R,,UKR,,,,0
+Setka,,20220612,809,Lazuryk D.,R,,UKR,,,,11-5 2-11 6-11 11-4 7-11,5,RR,Kolesnik Y.,R,,UKR,,,,0
+Setka,,20220612,810,Sabuka D.,R,,UKR,,,,9-11 9-11 6-11  ,5,RR,Brozek M.,R,,UKR,,,,0
+Setka,,20220612,811,Loboda M.,R,,UKR,,,,11-9 11-9 14-12  ,5,RR,Potapov M.,R,,UKR,,,,1
+Setka,,20220612,812,Romanenko I.,R,,UKR,,,,12-14 5-11 16-18  ,5,RR,Lipkan D.,R,,UKR,,,,0
+Setka,,20220612,813,Dukhovenko O.,R,,UKR,,,,8-11 6-11 2-11  ,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,814,Mikhailovskiy Y.,R,,UKR,,,,9-11 11-6 5-11 11-5 13-11,5,RR,Shyshkin M.,R,,UKR,,,,1
+Setka,,20220612,815,Rehotun D.,R,,UKR,,,,9-11 5-11 11-9 7-11 ,5,RR,Levyn S.,R,,UKR,,,,0
+Setka,,20220612,816,Stehlik M.,R,,UKR,,,,9-11 11-3 11-8 11-3 ,5,RR,Brozek M.,R,,UKR,,,,1
+Setka,,20220612,817,Ni I.,R,,UKR,,,,11-5 3-11 12-10 7-11 10-12,5,RR,Danilov I.,R,,UKR,,,,0
+Setka,,20220612,818,Mishchenko O.,R,,UKR,,,,8-11 7-11 3-11  ,5,RR,Hrymovskyi O.,R,,UKR,,,,0
+Setka,,20220612,819,Gomilko O.,R,,UKR,,,,7-11 5-11 8-11  ,5,RR,Hnoievoi R.,R,,UKR,,,,0
+Setka,,20220612,820,Sabuka D.,R,,UKR,,,,11-7 8-11 11-13 5-11 ,5,RR,Stoces L.,R,,UKR,,,,0
+Setka,,20220612,821,Sofroni D.,R,,UKR,,,,7-11 10-12 13-11 5-11 ,5,RR,Dubrovin V.,R,,UKR,,,,0
+Setka,,20220612,822,Chepurnyi A.,R,,UKR,,,,7-11 11-8 12-14 7-11 ,5,RR,Babenko P.,R,,UKR,,,,0
+Setka,,20220612,823,Torba R.,L,,UKR,,,,5-11 11-7 7-11 2-11 ,5,RR,Rak S.,R,,UKR,,,,0
+Setka,,20220612,824,Stehlik M.,R,,UKR,,,,11-7 14-12 11-8  ,5,RR,Sabuka D.,R,,UKR,,,,1
+Setka,,20220612,825,Tkachov S.,R,,UKR,,,,4-11 4-11 8-11  ,5,RR,Dukhovenko O.,R,,UKR,,,,0
+Setka,,20220612,826,Vlasenko V.,R,,UKR,,,,11-8 11-8 4-11 11-7 ,5,RR,Boiko V.,L,,UKR,,,,1
+Setka,,20220612,827,Brozek M.,R,,UKR,,,,6-11 2-11 11-9 12-10 11-6,5,RR,Stoces L.,L,,UKR,,,,1
+Setka,,20220613,828,Nikolenko S.,R,,UKR,,,,11-13 6-11 9-11  ,5,RR,Rak S.,R,,UKR,,,,0
+Setka,,20220613,829,Bielokon Y.,R,,UKR,,,,12-14 11-8 11-5 11-8 ,5,RR,Homylko A.,R,,UKR,,,,1
+Setka,,20220613,830,Sabuka D.,R,,UKR,,,,8-11 11-7 9-11 8-11 ,5,RR,Stehlik M.,R,,UKR,,,,0
+Setka,,20220613,831,Pitsyk S.,R,,UKR,,,,11-13 5-11 5-11  ,5,RR,Polysynskyi M.,R,,UKR,,,,0
+Setka,,20220613,832,Torba R.,R,,UKR,,,,6-11 6-11 11-4 13-11 11-4,5,RR,Vlasenko V.,R,,UKR,,,,1
+Setka,,20220613,833,Yushko R.,R,,UKR,,,,11-13 12-10 6-11 8-11 ,5,RR,Husiev V.,R,,UKR,,,,0
+Setka,,20220613,834,Stoces L.,R,,UKR,,,,11-6 6-11 11-6 11-9 ,5,RR,Brozek M.,R,,UKR,,,,1
+Setka,,20220613,835,Volkov P.,R,,UKR,,,,11-8 11-4 5-11 11-7 ,5,RR,Balakiriev M.,R,,UKR,,,,1
+Setka,,20220613,836,Nikolenko S.,R,,UKR,,,,11-9 7-11 5-11 7-11 ,5,RR,Boiko V.,R,,UKR,,,,0
+Setka,,20220613,837,Skoryk O.,R,,UKR,,,,11-9 3-11 11-5 11-7 ,5,RR,Melashenko O.,R,,UKR,,,,1
+Setka,,20220613,838,Bambutsa R.,R,,UKR,,,,7-11 11-7 11-6 10-12 11-13,5,RR,Sokolov S.,R,,UKR,,,,0
+Setka,,20220613,839,Vlasenko V.,R,,UKR,,,,5-11 9-11 11-6 10-12 ,5,RR,Rak S.,R,,UKR,,,,0
+Setka,,20220613,840,Bielokon Y.,R,,UKR,,,,7-11 11-8 11-4 11-4 ,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220613,841,Pitsyk S.,R,,UKR,,,,11-6 14-12 6-11 11-5 ,5,RR,Balakiriev M.,R,,UKR,,,,1
+Setka,,20220613,842,Torba R.,R,,UKR,,,,8-11 11-4 9-11 6-11 ,5,RR,Boiko V.,R,,UKR,,,,0
+Setka,,20220613,843,Melashenko O.,R,,UKR,,,,11-8 11-6 11-9  ,5,RR,Homylko A.,R,,UKR,,,,1
+Setka,,20220613,844,Sokolov S.,R,,UKR,,,,10-12 11-6 11-8 11-2 ,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220613,845,Nikolenko S.,R,,UKR,,,,11-3 11-4 11-6  ,5,RR,Vlasenko V.,R,,UKR,,,,1
+Setka,,20220613,846,Yushko R.,R,,UKR,,,,8-11 3-11 12-10 11-8 8-11,5,RR,Skoryk O.,R,,UKR,,,,0
+Setka,,20220613,847,Volkov P.,R,,UKR,,,,11-2 11-9 8-11 11-9 ,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220613,848,Boiko V.,R,,UKR,,,,11-8 12-10 13-11  ,5,RR,Rak S.,R,,UKR,,,,1
+Setka,,20220613,849,Bielokon Y.,R,,UKR,,,,4-11 7-11 4-11  ,5,RR,Melashenko O.,R,,UKR,,,,0
+Setka,,20220613,850,Pitsyk S.,R,,UKR,,,,3-11 6-11 11-8 6-11 ,5,RR,Sokolov S.,R,,UKR,,,,0
+Setka,,20220613,851,Nikolenko S.,R,,UKR,,,,11-9 11-9 11-13 10-12 11-13,5,RR,Torba R.,R,,UKR,,,,0
+Setka,,20220613,852,Skoryk O.,R,,UKR,,,,11-9 7-11 11-7 11-5 ,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220613,853,Bambutsa R.,L,,UKR,,,,6-11 11-6 11-4 16-18 11-9,5,RR,Balakiriev M.,R,,UKR,,,,1
+Setka,,20220613,854,Yushko R.,R,,UKR,,,,9-11 8-11 3-11  ,5,RR,Homylko A.,R,,UKR,,,,0
+Setka,,20220613,855,Rak S.,R,,UKR,,,,11-6 4-11 10-12 2-11 ,5,RR,Boiko V.,R,,UKR,,,,0
+Setka,,20220613,856,Volkov P.,R,,UKR,,,,9-11 2-11 7-11  ,5,RR,Polysynskyi M.,R,,UKR,,,,0
+Setka,,20220613,857,Bielokon Y.,R,,UKR,,,,9-11 3-11 4-11  ,5,RR,Skoryk O.,R,,UKR,,,,0
+Setka,,20220613,858,Torba R.,R,,UKR,,,,11-7 13-11 11-7  ,5,RR,Nikolenko S.,R,,UKR,,,,1
+Setka,,20220613,859,Pitsyk S.,R,,UKR,,,,11-6 11-3 11-2  ,5,RR,Bambutsa R.,R,,UKR,,,,1
+Setka,,20220613,860,Yushko R.,R,,UKR,,,,11-5 5-11 12-14 11-8 7-11,5,RR,Melashenko O.,L,,UKR,,,,0
+Setka,,20220613,861,Volkov P.,R,,UKR,,,,11-7 11-8 7-11 10-12 4-11,5,RR,Sokolov S.,R,,UKR,,,,0
+Setka,,20220613,862,Husiev V.,R,,UKR,,,,9-11 6-11 11-6 11-9 11-8,5,RR,Homylko A.,R,,UKR,,,,1
+Setka,,20220613,863,Balakiriev M.,R,,UKR,,,,8-11 8-11 6-11  ,5,RR,Polysynskyi M.,R,,UKR,,,,0
+Setka,,20220613,864,Bielokon Y.,R,,UKR,,,,5-11 11-4 12-10 5-11 5-11,5,RR,Yushko R.,R,,UKR,,,,0
+Setka,,20220613,865,Pitsyk S.,R,,UKR,,,,11-8 11-9 11-8  ,5,RR,Volkov P.,R,,UKR,,,,1
+Setka,,20220613,866,Skoryk O.,R,,UKR,,,,8-11 9-11 7-11  ,5,RR,Homylko A.,R,,UKR,,,,0
+Setka,,20220613,867,Bambutsa R.,R,,UKR,,,,12-10 11-5 12-10  ,5,RR,Polysynskyi M.,R,,UKR,,,,1
+Setka,,20220613,868,Skrypnyk O.,R,,UKR,,,,11-6 4-11 4-11 6-11 ,5,RR,Zhurba A.,R,,UKR,,,,0
+Setka,,20220613,869,Melashenko O.,R,,UKR,,,,11-6 12-10 7-11 5-11 7-11,5,RR,Husiev V.,R,,UKR,,,,0
+Setka,,20220613,870,Kodola V.,R,,UKR,,,,8-11 6-11 8-11  ,5,RR,Syniavskyi I.,R,,UKR,,,,0
+Setka,,20220613,871,Hot S.,R,,UKR,,,,7-11 9-11 11-5 11-4 5-11,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220613,872,Sokolov S.,R,,UKR,,,,8-11 11-4 9-11 11-7 7-11,5,RR,Balakiriev M.,R,,UKR,,,,0
+Setka,,20220613,873,Datsenko A.,R,,UKR,,,,9-11 13-11 8-11 11-4 6-11,5,RR,Tur A.,R,,UKR,,,,0
+Setka,,20220613,874,Shpak A.,R,,UKR,,,,7-11 13-11 8-11 6-11 ,5,RR,Mykhailovsky K.,R,,UKR,,,,0
+Setka,,20220613,875,Moriak A.,R,,UKR,,,,11-4 11-8 8-11 11-9 ,5,RR,Shyshkin M.,R,,UKR,,,,1
+Setka,,20220613,876,Kovpak E.,R,,UKR,,,,9-11 5-11 10-12  ,5,RR,Strutynskyi O.,R,,UKR,,,,0
+Setka,,20220613,877,Skrypnyk O.,R,,UKR,,,,8-11 11-13 9-11  ,5,RR,Tur A.,R,,UKR,,,,0
+Setka,,20220613,878,Mukhin V.,R,,UKR,,,,11-9 4-11 7-11 2-11 ,5,RR,Stukalov V.,R,,UKR,,,,0
+Setka,,20220613,879,Loboda M.,R,,UKR,,,,7-11 11-3 12-10 11-6 ,5,RR,Potapov M.,R,,UKR,,,,1
+Setka,,20220613,880,Timpu S.,R,,UKR,,,,5-11 7-11 11-7 8-11 ,5,RR,Mokryak I.,R,,UKR,,,,0
+Setka,,20220613,881,Moshovkyi V.,R,,UKR,,,,9-11 11-13 11-8 3-11 ,5,RR,Mikhailovskiy Y.,R,,UKR,,,,0
+Setka,,20220613,882,Datsenko A.,R,,UKR,,,,3-11 8-11 12-14  ,5,RR,Zhurba A.,R,,UKR,,,,0
+Setka,,20220613,883,Sokur M.,R,,UKR,,,,6-11 8-11 9-11  ,5,RR,Nadporozhskyi O.,R,,UKR,,,,0
+Setka,,20220613,884,Lobanov A.,L,,UKR,,,,5-11 4-11 8-11  ,5,RR,Solomko S.,R,,UKR,,,,0
+Setka,,20220613,885,Cicmis D.,R,,UKR,,,,11-9 8-11 7-11 8-11 ,5,RR,Martinka S.,R,,UKR,,,,0
+Setka,,20220613,886,Kodola V.,R,,UKR,,,,6-11 11-7 3-11 7-11 ,5,RR,Mykhailovsky K.,R,,UKR,,,,0
+Setka,,20220613,887,Hot S.,R,,UKR,,,,11-13 12-10 8-11 8-11 ,5,RR,Shyshkin M.,R,,UKR,,,,0
+Setka,,20220613,888,Levyn S.,R,,UKR,,,,5-11 11-8 11-6 9-11 11-1,5,RR,Lazuryk D.,R,,UKR,,,,1
+Setka,,20220613,889,Skorobahatyi Y.,R,,UKR,,,,14-12 11-4 12-10  ,5,RR,Volynets O.,R,,UKR,,,,1
+Setka,,20220613,890,Skrypnyk O.,R,,UKR,,,,6-11 9-11 9-11  ,5,RR,Datsenko A.,R,,UKR,,,,0
+Setka,,20220613,891,Yakimenko S.,R,,UKR,,,,11-5 5-11 11-8 6-11 8-11,5,RR,Ponomarenko O.,R,,UKR,,,,0
+Setka,,20220613,892,Adam L.,R,,UKR,,,,8-11 10-12 2-11  ,5,RR,Sochor A.,R,,UKR,,,,0
+Setka,,20220613,893,Baghici I.,R,,UKR,,,,12-10 11-5 7-11 11-5 ,5,RR,Evstratii V.,R,,UKR,,,,1
+Setka,,20220613,894,Potapov M.,R,,UKR,,,,11-3 11-9 3-11 12-10 ,5,RR,Syniavskyi I.,R,,UKR,,,,1
+Setka,,20220613,895,Remen M.,R,,UKR,,,,4-11 5-11 9-11  ,5,RR,Valuch Jr. R.,R,,UKR,,,,0
+Setka,,20220613,896,Kolesnik Y.,R,,UKR,,,,11-5 6-11 9-11 4-11 ,5,RR,Rehotun D.,R,,UKR,,,,0
+Setka,,20220613,897,Mikhailovskiy Y.,R,,UKR,,,,11-8 12-10 9-11 11-9 ,5,RR,Kovalchuk O.,R,,UKR,,,,1
+Setka,,20220613,898,Kovpak E.,R,,UKR,,,,10-12 7-11 9-11  ,5,RR,Nadporozhskyi O.,R,,UKR,,,,0
+Setka,,20220613,899,Tur A.,R,,UKR,,,,5-11 5-11 6-11  ,5,RR,Zhurba A.,L,,UKR,,,,0
+Setka,,20220613,900,Mukhin V.,R,,UKR,,,,8-11 9-11 11-2 11-8 9-11,5,RR,Solomko S.,R,,UKR,,,,0
+Setka,,20220613,901,Zeman L.,R,,UKR,,,,11-9 6-11 11-8 7-11 2-11,5,RR,Chalupa J.,R,,UKR,,,,0
+Setka,,20220613,902,Gogora M.,R,,UKR,,,,12-10 8-11 11-9 5-11 6-11,5,RR,Martinka S.,R,,UKR,,,,0
+Setka,,20220613,903,Shpak A.,R,,UKR,,,,11-4 11-6 11-8  ,5,RR,Loboda M.,R,,UKR,,,,1
+Setka,,20220613,904,Timpu S.,R,,UKR,,,,11-6 8-11 11-8 4-11 6-11,5,RR,Vedernicov A.,R,,UKR,,,,0
+Setka,,20220613,905,Hnoievoi R.,R,,UKR,,,,11-6 11-4 6-11 11-3 ,5,RR,Isakov V.,R,,UKR,,,,1
+Setka,,20220613,906,Moriak A.,R,,UKR,,,,11-6 9-11 11-5 11-6 ,5,RR,Moshovkyi V.,R,,UKR,,,,1
+Setka,,20220613,907,Datsenko A.,R,,UKR,,,,7-11 9-11 11-8 10-12 ,5,RR,Skrypnyk O.,R,,UKR,,,,0
+Setka,,20220613,908,Volynets O.,R,,UKR,,,,6-11 8-11 3-11  ,5,RR,Strutynskyi O.,R,,UKR,,,,0
+Setka,,20220613,909,Ponomarenko O.,R,,UKR,,,,3-11 18-16 4-11 4-11 ,5,RR,Stukalov V.,R,,UKR,,,,0
+Setka,,20220613,910,Adam L.,R,,UKR,,,,6-11 8-11 6-11  ,5,RR,Chalupa J.,R,,UKR,,,,0
+Setka,,20220613,911,Evstratii V.,R,,UKR,,,,6-11 4-11 8-11  ,5,RR,Mokryak I.,R,,UKR,,,,0
+Setka,,20220613,912,Kodola V.,R,,UKR,,,,9-11 11-13 6-11  ,5,RR,Potapov M.,R,,UKR,,,,0
+Setka,,20220613,913,Hot S.,R,,UKR,,,,1-11 11-9 11-6 5-11 7-11,5,RR,Mikhailovskiy Y.,R,,UKR,,,,0
+Setka,,20220613,914,Cicmis D.,L,,UKR,,,,10-12 5-11 11-13  ,5,RR,Remen M.,R,,UKR,,,,0
+Setka,,20220613,915,Levyn S.,R,,UKR,,,,11-8 11-2 11-6  ,5,RR,Rehotun D.,R,,UKR,,,,1
+Setka,,20220613,916,Lobanov A.,R,,UKR,,,,11-7 11-8 11-9  ,5,RR,Yakimenko S.,L,,UKR,,,,1
+Setka,,20220613,917,Sokur M.,R,,UKR,,,,11-9 4-11 4-11 6-11 ,5,RR,Skorobahatyi Y.,R,,UKR,,,,0
+Setka,,20220613,918,Zhurba A.,R,,UKR,,,,11-9 12-10 11-6  ,5,RR,Tur A.,R,,UKR,,,,1
+Setka,,20220613,919,Zeman L.,R,,UKR,,,,11-6 11-9 9-11 11-1 ,5,RR,Sochor A.,R,,UKR,,,,1
+Setka,,20220613,920,Gogora M.,R,,UKR,,,,10-12 5-11 7-11  ,5,RR,Valuch Jr. R.,R,,UKR,,,,0
+Setka,,20220613,921,Loboda M.,R,,UKR,,,,11-7 11-4 12-14 11-9 ,5,RR,Mykhailovsky K.,R,,UKR,,,,1
+Setka,,20220613,922,Isakov V.,R,,UKR,,,,5-11 5-11 5-11  ,5,RR,Lazuryk D.,R,,UKR,,,,0
+Setka,,20220613,923,Moshovkyi V.,R,,UKR,,,,11-9 3-11 13-11 11-3 ,5,RR,Shyshkin M.,R,,UKR,,,,1
+Setka,,20220613,924,Kovpak E.,R,,UKR,,,,11-9 7-11 11-7 8-11 11-3,5,RR,Volynets O.,R,,UKR,,,,1
+Setka,,20220613,925,Zhurba A.,R,,UKR,,,,11-8 11-2 12-10  ,5,RR,Datsenko A.,R,,UKR,,,,1
+Setka,,20220613,926,Mukhin V.,R,,UKR,,,,11-9 11-8 11-7  ,5,RR,Ponomarenko O.,R,,UKR,,,,1
+Setka,,20220613,927,Adam L.,R,,UKR,,,,11-9 2-11 6-11 8-11 ,5,RR,Zeman L.,R,,UKR,,,,0
+Setka,,20220613,928,Remen M.,R,,UKR,,,,7-11 7-11 10-12  ,5,RR,Martinka S.,R,,UKR,,,,0
+Setka,,20220613,929,Shpak A.,R,,UKR,,,,11-2 11-5 11-9  ,5,RR,Syniavskyi I.,R,,UKR,,,,1
+Setka,,20220613,930,Timpu S.,R,,UKR,,,,11-9 11-5 11-7  ,5,RR,Evstratii V.,R,,UKR,,,,1
+Setka,,20220613,931,Kolesnik Y.,R,,UKR,,,,11-6 11-9 8-11 7-11 7-11,5,RR,Hnoievoi R.,R,,UKR,,,,0
+Setka,,20220613,932,Moriak A.,R,,UKR,,,,11-6 5-11 11-9 11-13 9-11,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220613,933,Skorobahatyi Y.,R,,UKR,,,,11-9 11-5 11-8  ,5,RR,Nadporozhskyi O.,R,,UKR,,,,1
+Setka,,20220613,934,Tur A.,R,,UKR,,,,11-8 5-11 11-6 11-6 ,5,RR,Skrypnyk O.,R,,UKR,,,,1
+Setka,,20220613,935,Yakimenko S.,R,,UKR,,,,8-11 10-12 2-11  ,5,RR,Solomko S.,R,,UKR,,,,0
+Setka,,20220613,936,Chalupa J.,R,,UKR,,,,12-10 11-8 11-8  ,5,RR,Sochor A.,R,,UKR,,,,1
+Setka,,20220613,937,Cicmis D.,R,,UKR,,,,11-9 4-11 5-11 6-11 ,5,RR,Valuch Jr. R.,R,,UKR,,,,0
+Setka,,20220613,938,Kodola V.,R,,UKR,,,,11-6 16-18 3-11 6-11 ,5,RR,Loboda M.,R,,UKR,,,,0
+Setka,,20220613,939,Baghici I.,R,,UKR,,,,11-5 11-7 11-6  ,5,RR,Vedernicov A.,R,,UKR,,,,1
+Setka,,20220613,940,Hot S.,L,,UKR,,,,12-10 4-11 5-11 6-11 ,5,RR,Moshovkyi V.,R,,UKR,,,,0
+Setka,,20220613,941,Levyn S.,L,,UKR,,,,11-7 8-11 5-11 8-11 ,5,RR,Isakov V.,R,,UKR,,,,0
+Setka,,20220613,942,Sokur M.,R,,UKR,,,,8-11 6-11 7-11  ,5,RR,Strutynskyi O.,R,,UKR,,,,0
+Setka,,20220613,943,Zhurba A.,R,,UKR,,,,10-12 7-11 11-8 11-8 11-7,5,RR,Skrypnyk O.,R,,UKR,,,,1
+Setka,,20220613,944,Lobanov A.,R,,UKR,,,,11-5 11-7 10-12 14-16 11-6,5,RR,Stukalov V.,R,,UKR,,,,1
+Setka,,20220613,945,Gogora M.,R,,UKR,,,,7-11 9-11 4-11  ,5,RR,Remen M.,R,,UKR,,,,0
+Setka,,20220613,946,Shpak A.,R,,UKR,,,,8-11 11-8 5-11 7-11 ,5,RR,Potapov M.,L,,UKR,,,,0
+Setka,,20220613,947,Sochor A.,R,,UKR,,,,11-7 11-8 11-7  ,5,RR,Adam L.,R,,UKR,,,,1
+Setka,,20220613,948,Hnoievoi R.,R,,UKR,,,,8-11 11-2 11-13 11-4 2-11,5,RR,Rehotun D.,R,,UKR,,,,0
+Setka,,20220613,949,Moriak A.,R,,UKR,,,,8-11 11-7 11-9 9-11 9-11,5,RR,Mikhailovskiy Y.,R,,UKR,,,,0
+Setka,,20220613,950,Kovpak E.,R,,UKR,,,,11-8 11-9 6-11 3-11 9-11,5,RR,Skorobahatyi Y.,R,,UKR,,,,0
+Setka,,20220613,951,Tur A.,R,,UKR,,,,9-11 12-10 11-9 6-11 11-9,5,RR,Datsenko A.,R,,UKR,,,,1
+Setka,,20220613,952,Mukhin V.,R,,UKR,,,,11-4 7-11 9-11 11-9 8-11,5,RR,Yakimenko S.,R,,UKR,,,,0
+Setka,,20220613,953,Chalupa J.,R,,UKR,,,,11-13 11-5 10-12 11-6 11-9,5,RR,Zeman L.,R,,UKR,,,,1
+Setka,,20220613,954,Mykhailovsky K.,R,,UKR,,,,7-11 11-8 11-5 11-7 ,5,RR,Syniavskyi I.,R,,UKR,,,,1
+Setka,,20220613,955,Timpu S.,R,,UKR,,,,11-3 10-12 5-11 11-9 11-8,5,RR,Baghici I.,R,,UKR,,,,1
+Setka,,20220613,956,Valuch Jr. R.,R,,UKR,,,,11-13 7-11 11-8 11-9 9-11,5,RR,Martinka S.,R,,UKR,,,,0
+Setka,,20220613,957,Kolesnik Y.,R,,UKR,,,,1-11 6-11 5-11  ,5,RR,Lazuryk D.,R,,UKR,,,,0
+Setka,,20220613,958,Shyshkin M.,R,,UKR,,,,10-12 8-11 10-12  ,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220613,959,Sokur M.,R,,UKR,,,,6-11 6-11 6-11  ,5,RR,Volynets O.,R,,UKR,,,,0
+Setka,,20220613,960,Baday M.,R,,UKR,,,,2-11 8-11 12-10 12-10 11-8,5,RR,Chuhai S.,R,,UKR,,,,1
+Setka,,20220613,961,Klymenko K.,R,,UKR,,,,11-9 12-14 6-11 8-11 ,5,RR,Kovshun Y.,R,,UKR,,,,0
+Setka,,20220613,962,Lobanov A.,R,,UKR,,,,11-7 11-6 11-9  ,5,RR,Ponomarenko O.,R,,UKR,,,,1
+Setka,,20220613,963,Barsa T.,R,,UKR,,,,7-11 11-8 14-12 9-11 11-3,5,RR,Sabuka D.,R,,UKR,,,,1
+Setka,,20220613,964,Gogora M.,R,,UKR,,,,12-10 12-10 11-7  ,5,RR,Cicmis D.,R,,UKR,,,,1
+Setka,,20220613,965,Kodola V.,R,,UKR,,,,10-12 11-8 11-5 7-11 10-12,5,RR,Shpak A.,R,,UKR,,,,0
+Setka,,20220613,966,Hot S.,R,,UKR,,,,3-11 7-11 10-12  ,5,RR,Moriak A.,R,,UKR,,,,0
+Setka,,20220613,967,Levyn S.,R,,UKR,,,,5-11 13-15 11-8 9-11 ,5,RR,Hnoievoi R.,R,,UKR,,,,0
+Setka,,20220613,968,Nadporozhskyi O.,R,,UKR,,,,11-9 9-11 5-11 10-12 ,5,RR,Strutynskyi O.,R,,UKR,,,,0
+Setka,,20220613,969,Osadchiy O.,R,,UKR,,,,11-8 11-4 10-12 6-11 2-11,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220613,970,Solomko S.,R,,UKR,,,,9-11 11-4 11-6 11-8 ,5,RR,Stukalov V.,R,,UKR,,,,1
+Setka,,20220613,971,Tveritinov R.,R,,UKR,,,,11-8 11-9 11-7  ,5,RR,Prilepa D.,R,,UKR,,,,1
+Setka,,20220613,972,Burdelnyi S.,R,,UKR,,,,8-11 6-11 8-11  ,5,RR,Kondratenko V.,L,,UKR,,,,0
+Setka,,20220613,973,Loboda M.,R,,UKR,,,,11-9 7-11 7-11 11-2 11-6,5,RR,Syniavskyi I.,L,,UKR,,,,1
+Setka,,20220613,974,Lukes T.,L,,UKR,,,,13-11 11-7 3-11 7-11 11-9,5,RR,Stacho L.,R,,UKR,,,,1
+Setka,,20220613,975,Martinka S.,R,,UKR,,,,6-11 5-11 4-11  ,5,RR,Valuch Jr. R.,R,,UKR,,,,0
+Setka,,20220613,976,Vedernicov A.,R,,UKR,,,,9-11 3-11 4-11  ,5,RR,Mokryak I.,R,,UKR,,,,0
+Setka,,20220613,977,Kolesnik Y.,R,,UKR,,,,11-8 11-8 11-8  ,5,RR,Isakov V.,R,,UKR,,,,1
+Setka,,20220613,978,Moshovkyi V.,R,,UKR,,,,11-3 11-7 5-11 9-11 10-12,5,RR,Kovalchuk O.,R,,UKR,,,,0
+Setka,,20220613,979,Kovpak E.,R,,UKR,,,,11-6 8-11 8-11 11-5 10-12,5,RR,Sokur M.,R,,UKR,,,,0
+Setka,,20220613,980,Sedin V.,R,,UKR,,,,9-11 6-11 7-11  ,5,RR,Fedoryshyn I.,R,,UKR,,,,0
+Setka,,20220613,981,Kucheryavyi V.,R,,UKR,,,,7-11 11-5 7-11 3-11 ,5,RR,Melnykov V.,R,,UKR,,,,0
+Setka,,20220613,982,Mukhin V.,R,,UKR,,,,11-6 5-11 5-11 9-11 ,5,RR,Lobanov A.,R,,UKR,,,,0
+Setka,,20220613,983,Barsa T.,R,,UKR,,,,12-10 11-9 9-11 11-7 ,5,RR,Stacho L.,R,,UKR,,,,1
+Setka,,20220613,984,Potapov M.,R,,UKR,,,,8-11 4-11 11-8 11-3 11-5,5,RR,Mykhailovsky K.,R,,UKR,,,,1
+Setka,,20220613,985,Remen M.,R,,UKR,,,,14-16 11-9 6-11 11-4 10-12,5,RR,Gogora M.,R,,UKR,,,,0
+Setka,,20220613,986,Mikhailovskiy Y.,R,,UKR,,,,11-8 7-11 9-11 11-5 11-8,5,RR,Shyshkin M.,R,,UKR,,,,1
+Setka,,20220613,987,Rehotun D.,R,,UKR,,,,4-11 5-11 7-11  ,5,RR,Lazuryk D.,R,,UKR,,,,0
+Setka,,20220613,988,Baday M.,R,,UKR,,,,11-5 11-13 11-9 7-11 11-6,5,RR,Prilepa D.,R,,UKR,,,,1
+Setka,,20220613,989,Mytsyk A.,R,,UKR,,,,0-11 0-11 0-11  ,5,RR,Dekhtiarenko A.,R,,UKR,,,,0
+Setka,,20220613,990,Klymenko K.,R,,UKR,,,,5-11 6-11 14-12 7-11 ,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220613,991,Populovskyi E.,R,,UKR,,,,11-9 11-8 11-4  ,5,RR,Vasylyshyn I.,R,,UKR,,,,1
+Setka,,20220613,992,Lukes T.,R,,UKR,,,,11-8 11-2 11-6  ,5,RR,Sabuka D.,R,,UKR,,,,1
+Setka,,20220613,993,Baghici I.,R,,UKR,,,,6-11 7-11 5-11  ,5,RR,Mokryak I.,R,,UKR,,,,0
+Setka,,20220613,994,Yurchenko K.,R,,UKR,,,,11-6 11-9 11-5  ,5,RR,Verbianyi V.,R,,UKR,,,,1
+Setka,,20220613,995,Bindas O.,R,,UKR,,,,4-11 12-10 10-12 12-10 11-7,5,RR,Pesternikov D.,R,,UKR,,,,1
+Setka,,20220613,996,Levyn S.,R,,UKR,,,,11-2 7-11 12-10 11-6 ,5,RR,Kolesnik Y.,R,,UKR,,,,1
+Setka,,20220613,997,Fedoryshyn I.,R,,UKR,,,,11-7 11-9 11-8  ,5,RR,Chuhai S.,R,,UKR,,,,1
+Setka,,20220613,998,Volynets O.,R,,UKR,,,,8-11 9-11 9-11  ,5,RR,Nadporozhskyi O.,R,,UKR,,,,0
+Setka,,20220613,999,Melnykov V.,R,,UKR,,,,12-10 9-11 4-11 13-11 7-11,5,RR,Kovshun Y.,R,,UKR,,,,0
+Setka,,20220613,1000,Ponomarenko O.,R,,UKR,,,,11-6 11-7 11-9  ,5,RR,Solomko S.,R,,UKR,,,,1
+Setka,,20220613,1001,Burdelnyi S.,R,,UKR,,,,11-8 2-11 8-11 11-8 12-10,5,RR,Dekhtiarenko A.,R,,UKR,,,,1
+Setka,,20220613,1002,Barsa T.,R,,UKR,,,,11-4 8-11 11-9 8-11 11-6,5,RR,Lukes T.,R,,UKR,,,,1
+Setka,,20220613,1003,Danyliuk N.,R,,UKR,,,,11-6 7-11 5-11 6-11 ,5,RR,Lyevshyn V.,R,,UKR,,,,0
+Setka,,20220613,1004,Evstratii V.,L,,UKR,,,,11-7 6-11 9-11 11-6 8-11,5,RR,Vedernicov A.,R,,UKR,,,,0
+Setka,,20220613,1005,Hnoievoi R.,R,,UKR,,,,7-11 11-7 5-11 6-11 ,5,RR,Lazuryk D.,R,,UKR,,,,0
+Setka,,20220613,1006,Kushnir V.,R,,UKR,,,,7-11 10-12 8-11  ,5,RR,Kistechko M.,L,,UKR,,,,0
+Setka,,20220613,1007,Tveritinov R.,R,,UKR,,,,11-5 6-11 8-11 11-5 11-8,5,RR,Sedin V.,R,,UKR,,,,1
+Setka,,20220613,1008,Grinenko K.,R,,UKR,,,,6-11 11-3 13-11 11-4 ,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220613,1009,Osadchiy O.,R,,UKR,,,,6-11 11-6 8-11 7-11 ,5,RR,Kucheryavyi V.,R,,UKR,,,,0
+Setka,,20220613,1010,Vasylyshyn I.,R,,UKR,,,,8-11 11-5 11-4 11-5 ,5,RR,Kondratenko V.,R,,UKR,,,,1
+Setka,,20220613,1011,Stacho L.,R,,UKR,,,,11-2 11-6 6-11 9-11 11-2,5,RR,Sabuka D.,R,,UKR,,,,1
+Setka,,20220613,1012,Pashkevich R.,R,,UKR,,,,11-8 11-7 11-8  ,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220613,1013,Pavlyuk O.,R,,UKR,,,,8-11 15-17 11-4 9-11 ,5,RR,Verbianyi V.,R,,UKR,,,,0
+Setka,,20220613,1014,Isakov V.,R,,UKR,,,,9-11 9-11 11-9 6-11 ,5,RR,Rehotun D.,R,,UKR,,,,0
+Setka,,20220613,1015,Kravets Y.,R,,UKR,,,,9-11 3-11 9-11  ,5,RR,Pesternikov D.,R,,UKR,,,,0
+Setka,,20220613,1016,Baday M.,R,,UKR,,,,3-11 11-6 6-11 8-11 ,5,RR,Fedoryshyn I.,R,,UKR,,,,0
+Setka,,20220613,1017,Klymenko K.,R,,UKR,,,,11-6 6-11 3-11 4-11 ,5,RR,Melnykov V.,R,,UKR,,,,0
+Setka,,20220613,1018,Scherbak A.,R,,UKR,,,,7-11 5-11 2-11  ,5,RR,Skoryk O.,R,,UKR,,,,0
+Setka,,20220613,1019,Mytsyk A.,R,,UKR,,,,8-11 5-11 8-11  ,5,RR,Populovskyi E.,R,,UKR,,,,0
+Setka,,20220613,1020,Crainiucov G.,R,,UKR,,,,8-11 11-6 11-9 5-11 8-11,5,RR,Uzun N.,R,,UKR,,,,0
+Setka,,20220613,1021,Lukes T.,R,,UKR,,,,7-11 11-8 8-11 11-5 11-9,5,RR,Barsa T.,R,,UKR,,,,1
+Setka,,20220613,1022,Yurchenko K.,R,,UKR,,,,12-10 11-7 11-6  ,5,RR,Danyliuk N.,R,,UKR,,,,1
+Setka,,20220613,1023,Bindas O.,R,,UKR,,,,8-11 11-7 11-6 11-7 ,5,RR,Kushnir V.,R,,UKR,,,,1
+Setka,,20220613,1024,Peretiatko A.,R,,UKR,,,,8-11 11-13 13-11 2-11 ,5,RR,Samofal Y.,R,,UKR,,,,0
+Setka,,20220613,1025,Sedin V.,R,,UKR,,,,11-9 11-7 11-6  ,5,RR,Prilepa D.,R,,UKR,,,,1
+Setka,,20220613,1026,Bielokon Y.,R,,UKR,,,,9-11 7-11 11-3 8-11 ,5,RR,Melashenko O.,R,,UKR,,,,0
+Setka,,20220613,1027,Kucheryavyi V.,R,,UKR,,,,8-11 10-12 11-7 6-11 ,5,RR,Semenets S.,R,,UKR,,,,0
+Setka,,20220613,1028,Burdelnyi S.,R,,UKR,,,,4-11 4-11 5-11  ,5,RR,Vasylyshyn I.,R,,UKR,,,,0
+Setka,,20220613,1029,Mischenko S.,R,,UKR,,,,7-11 11-9 11-7 11-5 ,5,RR,Paniivan H.,R,,UKR,,,,1
+Setka,,20220613,1030,Pavlyuk O.,R,,UKR,,,,9-11 5-11 12-10 11-9 11-6,5,RR,Lyevshyn V.,R,,UKR,,,,1
+Setka,,20220613,1031,Sabuka D.,R,,UKR,,,,2-11 4-11 10-12  ,5,RR,Stacho L.,R,,UKR,,,,0
+Setka,,20220613,1032,Kravets Y.,R,,UKR,,,,5-11 13-11 10-12 10-12 ,5,RR,Kistechko M.,R,,UKR,,,,0
+Setka,,20220613,1033,Pereyaslavsky D.,R,,UKR,,,,8-11 8-11 8-11  ,5,RR,Homylko A.,R,,UKR,,,,0
+Setka,,20220613,1034,Tveritinov R.,R,,UKR,,,,6-11 9-11 15-17  ,5,RR,Chuhai S.,R,,UKR,,,,0
+Setka,,20220613,1035,Grinenko K.,L,,UKR,,,,9-11 6-11 11-7 9-11 ,5,RR,Skoryk O.,R,,UKR,,,,0
+Setka,,20220613,1036,Osadchiy O.,R,,UKR,,,,7-11 6-11 11-9 9-11 ,5,RR,Kovshun Y.,L,,UKR,,,,0
+Setka,,20220613,1037,Populovskyi E.,R,,UKR,,,,11-9 3-11 7-11 9-11 ,5,RR,Dekhtiarenko A.,R,,UKR,,,,0
+Setka,,20220613,1038,Kocvara M.,R,,UKR,,,,11-4 5-11 11-9 11-3 ,5,RR,Adam L.,R,,UKR,,,,1
+Setka,,20220613,1039,Danyliuk N.,R,,UKR,,,,5-11 11-9 9-11 7-11 ,5,RR,Verbianyi V.,R,,UKR,,,,0
+Setka,,20220613,1040,Pashkevich R.,R,,UKR,,,,3-11 8-11 3-11  ,5,RR,Uzun N.,L,,UKR,,,,0
+Setka,,20220613,1041,Kushnir V.,R,,UKR,,,,11-13 11-7 3-11 11-9 6-11,5,RR,Pesternikov D.,L,,UKR,,,,0
+Setka,,20220613,1042,Sokoltsov Y.,R,,UKR,,,,11-8 11-5 7-11 11-9 ,5,RR,Kostiuk B.,R,,UKR,,,,1
+Setka,,20220613,1043,Baday M.,R,,UKR,,,,11-9 2-11 11-7 12-10 ,5,RR,Sedin V.,R,,UKR,,,,1
+Setka,,20220613,1044,Klymenko K.,R,,UKR,,,,12-10 11-5 8-11 10-12 8-11,5,RR,Kucheryavyi V.,R,,UKR,,,,0
+Setka,,20220613,1045,Melashenko O.,R,,UKR,,,,11-9 11-7 6-11 12-14 3-11,5,RR,Husiev V.,R,,UKR,,,,0
+Setka,,20220613,1046,Mytsyk A.,R,,UKR,,,,11-4 11-8 3-11 11-7 ,5,RR,Kondratenko V.,R,,UKR,,,,1
+Setka,,20220613,1047,Chalupa J.,R,,UKR,,,,13-11 5-11 11-9 11-8 ,5,RR,Zeman L.,R,,UKR,,,,1
+Setka,,20220613,1048,Paniivan H.,R,,UKR,,,,11-6 11-9 11-5  ,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220613,1049,Yurchenko K.,R,,UKR,,,,12-10 8-11 14-12 7-11 7-11,5,RR,Lyevshyn V.,R,,UKR,,,,0
+Setka,,20220613,1050,Bindas O.,R,,UKR,,,,10-12 11-3 11-5 11-9 ,5,RR,Kistechko M.,R,,UKR,,,,1
+Setka,,20220613,1051,Peretiatko A.,R,,UKR,,,,7-11 7-11 6-11  ,5,RR,Homylko A.,R,,UKR,,,,0
+Setka,,20220613,1052,Tveritinov R.,R,,UKR,,,,9-11 11-9 7-11 8-11 ,5,RR,Fedoryshyn I.,R,,UKR,,,,0
+Setka,,20220613,1053,Osadchiy O.,R,,UKR,,,,11-3 7-11 9-11 9-11 ,5,RR,Melnykov V.,R,,UKR,,,,0
+Setka,,20220613,1054,Scherbak A.,R,,UKR,,,,5-11 7-11 8-11  ,5,RR,Bielokon Y.,R,,UKR,,,,0
+Setka,,20220613,1055,Burdelnyi S.,R,,UKR,,,,7-11 11-13 11-3 11-6 11-13,5,RR,Populovskyi E.,R,,UKR,,,,0
+Setka,,20220613,1056,Kocvara M.,R,,UKR,,,,11-8 11-6 2-11 12-10 ,5,RR,Zeman L.,R,,UKR,,,,1
+Setka,,20220613,1057,Crainiucov G.,R,,UKR,,,,11-7 11-7 9-11 9-11 12-10,5,RR,Mischenko S.,R,,UKR,,,,1
+Setka,,20220613,1058,Pavlyuk O.,R,,UKR,,,,11-5 5-11 6-11 11-9 7-11,5,RR,Danyliuk N.,R,,UKR,,,,0
+Setka,,20220613,1059,Kostiuk B.,R,,UKR,,,,15-13 9-11 8-11 11-7 12-14,5,RR,Samofal Y.,R,,UKR,,,,0
+Setka,,20220613,1060,Kravets Y.,R,,UKR,,,,11-4 9-11 7-11 14-12 5-11,5,RR,Kushnir V.,R,,UKR,,,,0
+Setka,,20220613,1061,Prilepa D.,R,,UKR,,,,9-11 4-11 11-7 11-4 11-8,5,RR,Chuhai S.,R,,UKR,,,,1
+Setka,,20220613,1062,Semenets S.,R,,UKR,,,,11-4 7-11 11-7 11-6 ,5,RR,Kovshun Y.,R,,UKR,,,,1
+Setka,,20220613,1063,Grinenko K.,R,,UKR,,,,11-7 7-11 8-11 8-11 ,5,RR,Melashenko O.,R,,UKR,,,,0
+Setka,,20220613,1064,Chalupa J.,R,,UKR,,,,11-9 9-11 11-9 11-7 ,5,RR,Adam L.,R,,UKR,,,,1
+Setka,,20220613,1065,Mytsyk A.,L,,UKR,,,,2-11 5-11 12-10 8-11 ,5,RR,Vasylyshyn I.,R,,UKR,,,,0
+Setka,,20220613,1066,Lyevshyn V.,R,,UKR,,,,8-11 2-11 5-11  ,5,RR,Verbianyi V.,R,,UKR,,,,0
+Setka,,20220613,1067,Pashkevich R.,R,,UKR,,,,11-8 6-11 7-11 11-9 9-11,5,RR,Paniivan H.,R,,UKR,,,,0
+Setka,,20220613,1068,Kistechko M.,R,,UKR,,,,11-8 11-5 11-9  ,5,RR,Pesternikov D.,R,,UKR,,,,1
+Setka,,20220613,1069,Pereyaslavsky D.,R,,UKR,,,,9-11 11-9 4-11 11-5 6-11,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220613,1070,Baday M.,R,,UKR,,,,10-12 11-7 10-12 6-11 ,5,RR,Tveritinov R.,R,,UKR,,,,0
+Setka,,20220613,1071,Bielokon Y.,R,,UKR,,,,8-11 10-12 9-11  ,5,RR,Skoryk O.,R,,UKR,,,,0
+Setka,,20220613,1072,Klymenko K.,R,,UKR,,,,11-6 13-15 11-7 11-8 ,5,RR,Osadchiy O.,R,,UKR,,,,1
+Setka,,20220613,1073,Dekhtiarenko A.,R,,UKR,,,,11-6 4-11 7-11 4-11 ,5,RR,Kondratenko V.,R,,UKR,,,,0
+Setka,,20220613,1074,Kocvara M.,R,,UKR,,,,11-3 9-11 4-11 11-8 11-9,5,RR,Chalupa J.,L,,UKR,,,,1
+Setka,,20220613,1075,Mischenko S.,R,,UKR,,,,7-11 13-11 11-8 9-11 11-6,5,RR,Uzun N.,R,,UKR,,,,1
+Setka,,20220613,1076,Pavlyuk O.,R,,UKR,,,,16-14 11-7 9-11 11-9 ,5,RR,Yurchenko K.,R,,UKR,,,,1
+Setka,,20220613,1077,Kravets Y.,R,,UKR,,,,11-6 4-11 6-11 7-11 ,5,RR,Bindas O.,R,,UKR,,,,0
+Setka,,20220613,1078,Peretiatko A.,R,,UKR,,,,3-11 5-11 6-11  ,5,RR,Kostiuk B.,R,,UKR,,,,0
+Setka,,20220613,1079,Sedin V.,R,,UKR,,,,11-7 11-8 9-11 11-4 ,5,RR,Chuhai S.,R,,UKR,,,,1
+Setka,,20220613,1080,Scherbak A.,R,,UKR,,,,11-7 7-11 11-7 7-11 17-15,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220613,1081,Burdelnyi S.,R,,UKR,,,,11-9 6-11 6-11 9-11 ,5,RR,Mytsyk A.,R,,UKR,,,,0
+Setka,,20220613,1082,Kucheryavyi V.,R,,UKR,,,,11-7 6-11 7-11 17-19 ,5,RR,Kovshun Y.,R,,UKR,,,,0
+Setka,,20220613,1083,Zeman L.,R,,UKR,,,,5-11 11-8 10-12 11-5 11-8,5,RR,Adam L.,R,,UKR,,,,1
+Setka,,20220613,1084,Crainiucov G.,R,,UKR,,,,11-8 11-8 11-6  ,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220613,1085,Pesternikov D.,R,,UKR,,,,8-11 13-11 11-3 13-11 ,5,RR,Kushnir V.,R,,UKR,,,,1
+Setka,,20220613,1086,Sokoltsov Y.,R,,UKR,,,,6-11 11-8 11-6 8-11 11-4,5,RR,Homylko A.,R,,UKR,,,,1
+Setka,,20220613,1087,Fedoryshyn I.,R,,UKR,,,,8-11 11-13 11-9 11-6 8-11,5,RR,Prilepa D.,R,,UKR,,,,0
+Setka,,20220613,1088,Grinenko K.,R,,UKR,,,,10-12 8-11 9-11  ,5,RR,Bielokon Y.,R,,UKR,,,,0
+Setka,,20220613,1089,Lyevshyn V.,R,,UKR,,,,11-8 8-11 8-11 13-11 11-7,5,RR,Yurchenko K.,R,,UKR,,,,1
+Setka,,20220613,1090,Melnykov V.,R,,UKR,,,,11-6 6-11 11-5 11-5 ,5,RR,Semenets S.,R,,UKR,,,,1
+Setka,,20220613,1091,Populovskyi E.,L,,UKR,,,,12-10 4-11 5-11 12-10 2-11,5,RR,Kondratenko V.,R,,UKR,,,,0
+Setka,,20220613,1092,Pashkevich R.,L,,UKR,,,,4-11 6-11 4-11  ,5,RR,Mischenko S.,R,,UKR,,,,0
+Setka,,20220613,1093,Kistechko M.,R,,UKR,,,,5-11 11-4 10-12 12-10 11-9,5,RR,Bindas O.,R,,UKR,,,,1
+Setka,,20220613,1094,Pereyaslavsky D.,R,,UKR,,,,13-11 11-6 11-9  ,5,RR,Samofal Y.,R,,UKR,,,,1
+Setka,,20220613,1095,Chalupa J.,R,,UKR,,,,11-8 12-14 17-15 11-3 ,5,RR,Kocvara M.,R,,UKR,,,,1
+Setka,,20220613,1096,Verbianyi V.,R,,UKR,,,,11-5 10-12 10-12 11-7 3-11,5,RR,Pavlyuk O.,R,,UKR,,,,0
+Setka,,20220613,1097,Scherbak A.,R,,UKR,,,,11-6 11-9 5-11 8-11 10-12,5,RR,Melashenko O.,R,,UKR,,,,0
+Setka,,20220613,1098,Vasylyshyn I.,R,,UKR,,,,11-9 11-3 10-12 11-4 ,5,RR,Dekhtiarenko A.,R,,UKR,,,,1
+Setka,,20220613,1099,Crainiucov G.,R,,UKR,,,,7-11 6-11 4-11  ,5,RR,Paniivan H.,R,,UKR,,,,0
+Setka,,20220613,1100,Peretiatko A.,R,,UKR,,,,5-11 9-11 7-11  ,5,RR,Sokoltsov Y.,R,,UKR,,,,0
+Setka,,20220613,1101,Adam L.,R,,UKR,,,,11-8 11-6 11-3  ,5,RR,Zeman L.,R,,UKR,,,,1
+Setka,,20220613,1102,Skoryk O.,R,,UKR,,,,11-8 4-11 7-11 8-11 ,5,RR,Husiev V.,R,,UKR,,,,0
+Setka,,20220613,1103,Bouska M.,R,,UKR,,,,11-4 11-5 11-6  ,5,RR,Rejent S.,R,,UKR,,,,1
+Setka,,20220613,1104,Uzun N.,R,,UKR,,,,13-11 10-12 11-4 11-7 ,5,RR,Kovik I.,L,,UKR,,,,1
+Setka,,20220613,1105,Pereyaslavsky D.,R,,UKR,,,,3-11 9-11 11-9 10-12 ,5,RR,Kostiuk B.,R,,UKR,,,,0
+Setka,,20220613,1106,Grinenko K.,R,,UKR,,,,11-4 3-11 11-6 11-6 ,5,RR,Scherbak A.,R,,UKR,,,,1
+Setka,,20220613,1107,Brandtl A.,R,,UKR,,,,11-4 9-11 11-6 9-11 11-5,5,RR,Krames J.,R,,UKR,,,,1
+Setka,,20220613,1108,Pashkevich R.,R,,UKR,,,,12-10 7-11 13-11 11-5 ,5,RR,Crainiucov G.,R,,UKR,,,,1
+Setka,,20220613,1109,Homylko A.,R,,UKR,,,,11-7 11-13 3-11 11-9 9-11,5,RR,Samofal Y.,R,,UKR,,,,0
+Setka,,20220613,1110,Bielokon Y.,R,,UKR,,,,11-9 13-11 5-11 11-6 ,5,RR,Husiev V.,R,,UKR,,,,1
+Setka,,20220613,1111,Bouska M.,R,,UKR,,,,8-11 11-7 11-8 11-5 ,5,RR,Krames J.,R,,UKR,,,,1
+Setka,,20220613,1112,Mischenko S.,R,,UKR,,,,11-7 11-6 11-8  ,5,RR,Kovik I.,R,,UKR,,,,1
+Setka,,20220613,1113,Peretiatko A.,R,,UKR,,,,11-8 11-3 11-6  ,5,RR,Pereyaslavsky D.,R,,UKR,,,,1
+Setka,,20220613,1114,Melashenko O.,R,,UKR,,,,11-7 11-5 4-11 14-12 ,5,RR,Skoryk O.,R,,UKR,,,,1
+Setka,,20220613,1115,Brandtl A.,R,,UKR,,,,11-7 6-11 8-11 11-6 11-8,5,RR,Rejent S.,R,,UKR,,,,1
+Setka,,20220613,1116,Paniivan H.,R,,UKR,,,,8-11 11-9 11-7 7-11 8-11,5,RR,Uzun N.,R,,UKR,,,,0
+Setka,,20220613,1117,Sokoltsov Y.,R,,UKR,,,,10-12 9-11 11-7 11-8 12-10,5,RR,Samofal Y.,R,,UKR,,,,1
+Setka,,20220613,1118,Huchok A.,R,,UKR,,,,13-11 8-11 11-5 4-11 11-6,5,RR,Sheremeta V.,R,,UKR,,,,1
+Setka,,20220613,1119,Bouska M.,R,,UKR,,,,11-9 11-6 11-9  ,5,RR,Brandtl A.,R,,UKR,,,,1
+Setka,,20220613,1120,Kostiuk B.,R,,UKR,,,,11-4 8-11 11-6 11-7 ,5,RR,Homylko A.,R,,UKR,,,,1
+Setka,,20220613,1121,Okopnyi V.,R,,UKR,,,,4-11 10-12 6-11  ,5,RR,Hovorunets O.,R,,UKR,,,,0
+Setka,,20220613,1122,Krames J.,R,,UKR,,,,5-11 7-11 8-11  ,5,RR,Rejent S.,R,,UKR,,,,0
